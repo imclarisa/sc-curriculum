@@ -111,7 +111,7 @@ For one-line arrow functions (like the example above), the value is implicitly r
 
 <br>
 
-2. Next, the “block body” syntax.
+2. Next, the **“block body”** syntax.
 
 ```javascript
 const addTwo = (a) => {
@@ -126,7 +126,7 @@ For multi-line Arrow functions (like the example above), both wrap the body bloc
 
 > **To summarize the Function Body:**
 >
-> - For one-line Arrow functions `return` or curly brackets aren't needed.
+> - For concise one-line Arrow functions `return` or curly brackets aren't needed.
 > - For block-body multi-line Arrow functions use **both** curly brackets and `return`.
 
 <br>
@@ -141,6 +141,7 @@ const f = () => ({
 });
 
 console.log(f().city);
+// Boston
 ```
 
 Without the parentheses, we get an error.
