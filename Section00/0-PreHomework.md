@@ -25,7 +25,14 @@ Please go to each of the links below and complete each of the courses. They will
 
 <br>
 
-3. You are required to attend 2 "tech" meetups by the time of our final interview and send a message with information about the ones you attended to Dez at SavvyCoders.
+3. Three resources to help you understand GitBash commands
+- [YouTube video that reviews commands](https://www.youtube.com/watch?v=oQc-2gsjgDg)
+- [Article with Basic commands](https://www.freecodecamp.org/news/understanding-git-basics-commands-tips-tricks/)
+- [Article with commands and examples](https://dzone.com/articles/top-20-git-commands-with-examples)
+
+<br>
+
+4. You are required to attend 2 "tech" meetups by the time of our final interview and send a message with information about the ones you attended to Dez at SavvyCoders.
 
    (Another option is to post on Instagram about the meetup and either tag #savvycoders or tag our actual name @savvy_coders )
 
@@ -36,4 +43,4 @@ Please go to each of the links below and complete each of the courses. They will
 
 <br>
 
-4. You will need to pass a typing test; at 40wpm, we will do this at one of our interviews, this is the one I use so you can practice if you need to. Please bring your laptop with you if you want. The link to the test we use is at https://www.typingtest.com/
+5. You will need to pass a typing test; at 40wpm, we will do this at one of our interviews, this is the one I use so you can practice if you need to. Please bring your laptop with you if you want. The link to the test we use is at https://www.typingtest.com/
