@@ -63,8 +63,7 @@
 
 - [7.1 SPA Deploying to Netlify](Section07/7.1-DeployingToNetlify.md)
 - [7.2 APIs And Axios](Section07/7.2-APIsAndAxios1.md)
-- [7.3 Node](Section07/7.3-Node1.md)
-- [7.4 Introduction to Backend Development](Section07/7.4-BackendDevelopment.md)
+- [7.3 Introduction to Backend Development](Section07/7.3-BackendDevelopment.md)
 - [Section 7 - Homework](Section07/7-Homework.md)
 
 ## Section 8: **Backend Development I**
