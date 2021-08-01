@@ -57,4 +57,5 @@ Quality, not quantity.
     1. Write your name in a large font
     2. Write a subheading about you in a smaller font
     3. Create a list that explains your goals for this course
+
 <br>
