@@ -62,8 +62,10 @@ One large thin crust pizza with sausage, onions, peppers, . Coming up!
 ...your pizza is cooking...
 Order up! Here's your large thin crust pizza with sausage, onions, peppers, . Enjoy!
 
+```javascript
 {
   size: 'small',
   crust: 'thin',
   toppings: [ 'mushrooms', 'banana peppers' ]
 }
+```
