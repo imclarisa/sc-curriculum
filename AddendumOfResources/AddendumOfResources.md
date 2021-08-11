@@ -17,10 +17,12 @@
 - [Coding Communities to gain more info](#coding-communities-to-gain-more-info)
 - [Coding sites to practice and earn badges](#coding-sites-to-practice-and-earn-badges)
 - [Computer and Data Science basics](#computer-and-data-science-basics)
+- [CSS Resources](#css-resources)
 
 ### D
 
 - [Database resources](#database-resources)
+- [DEV Tools](#dev-tools)
 
 ### F
 
@@ -28,13 +30,13 @@
 
 ### G
 
-- [Git and GitHub resources](#git-and-gitHub-resources)
+- [Git and GitHub Resources](#git-and-github-resources)
 
 ### H
 
 - [Handy coding tools](#handy-coding-tools)
 - [Hosting the frontend and backend](#hosting-the-frontend-and-backend)
-- [HTML & CSS resources](#html-&-css-resources)
+- [HTML resources](#html-resources)
 
 ### J
 
@@ -43,7 +45,7 @@
 ### M
 
 - [Markdown crash course](#markdown-crash-course)
-- [Meetups @ Meetup.com](#meetups-@-meetup.com)
+- [Meetups at Meetup dot com](#meetups-at-meetup-dot-com)
 
 ### O
 
@@ -51,12 +53,18 @@
 
 ### R
 
-- [RegEx: Regular Expressions in JavaScript](#regex:-regular-expressions-in-javascript)
+- [Read.Me](#readme)
+- [RegEx - Regular Expressions in JavaScript](#regex---regular-expressions-in-javascript)
 
 ### S
 
 - [Sites with additional training courses](#sites-with-additional-training-courses)
-- [SPA's: Single-Page-Applications](#spa's:-single-page-applications)
+- [SPA - Single Page Applications](#spa---single-page-applications)
+
+### U
+
+- [UI and UX Considerations](#ui-and-ux-considerations)
+
 
 <br>
 
@@ -169,6 +177,18 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 - [How do computers and the internet work?]()
 
+---
+
+<br>
+
+## CSS Resources
+
+- [CSS Battle!](https://cssbattle.dev/) CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code.
+- [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
+- [CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project](https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/)
+- [CSS Selectors - How to Use CSS Selectors to Style Your Web Page](https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/)
+- [Use CSS Media Queries to Create Responsive Websites](https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/)
+
 <br>
 
 ---
@@ -200,6 +220,16 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 <br>
 
+## DEV Tools
+
+- [Learn How to Use the Chrome DevTools to Troubleshoot Websites](https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/)
+
+<br>
+
+---
+
+<br>
+
 ## Frontend development resources
 
 - [How to Manipulate the DOM](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/) - Get to feel comfortable with DOM manipulations
@@ -220,6 +250,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Translating GIT terms](https://docs.google.com/document/d/149nAWuWakI9wCIVrePBYS7ZHEX2dwdjQqfO6wyaPGAI/edit)
 - [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (YouTube video)
+- [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 <br>
@@ -259,10 +290,8 @@ CodePen.io is a social development environment for front-end designers and devel
 
 <br>
 
-## HTML & CSS resources
+## HTML resources
 
-- [CSSBattle!](https://cssbattle.dev/) CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code.
-- [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 - [Form Validation: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 - [HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
 - [HTML Div Table Generator](https://divtable.com/generator/) - Generate HTML Div table grids for websites in just a few easy steps.
@@ -297,7 +326,7 @@ CodePen.io is a social development environment for front-end designers and devel
 
 <br>
 
-## Meetups @ Meetup.com
+## Meetups at Meetup dot com
 
 Create a profile for yourself and select your areas of interest
 
@@ -326,7 +355,19 @@ Create a profile for yourself and select your areas of interest
 
 <br>
 
-## RegEx: Regular Expressions in JavaScript
+## ReadMe
+
+- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [How to Write Beautiful and Meaningful README.md](https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991)
+- [Managing your profile README - GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
+<br>
+
+---
+
+<br>
+
+## RegEx - Regular Expressions in JavaScript
 
 - www.sitepoint.com/expressions-javascript/
 - www.youtube.com/watch?v=VrT3TRDDE4M
@@ -358,9 +399,17 @@ Create a profile for yourself and select your areas of interest
 
 <br>
 
-## SPA's: Single-Page-Applications
+## SPA - Single Page Applications
 
 - [How The Model View Controller Architecture Works](https://www.freecodecamp.org/news/model-view-architecture/)
 - [What is "State" in Programming?](https://youtu.be/g8-Xrpl_Uhk) Watch this YouTube video for a simple explanation
+---
+
+<br>
+
+## UI and UX Considerations
+
+- [What is the difference between UI and UX?](https://www.freecodecamp.org/news/ui-ux-design-guide/)
+- [What is Figma? A Design Crash Course](https://www.freecodecamp.org/news/figma-crash-course/)
 
 ---
