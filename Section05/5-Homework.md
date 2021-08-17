@@ -28,21 +28,21 @@
 
 ### JS Array Methods Practice
 
-Using the [placeholder User data](https://jsonplaceholder.typicode.com/users):
+Using the [placeholder User data](https://jsonplaceholder.typicode.com/users) at [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) :
 
 - create and print a list of phone numbers
 - create and print a list of website and email pairs (pair them in a string, array, or object)
 
 <br>
 
-Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos):
+Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) at [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) :
 
 - create a list of user 9's to-dos
 - then find the number of user 9's incomplete tasks
 
 <br>
 
-Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts):
+Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts) at [https://jsonplaceholder.typicode.com/post](https://jsonplaceholder.typicode.com/post) :
 
 - create a list of user 5's posts
 - then, create a list of title and body pairs
@@ -52,7 +52,7 @@ Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts):
 
 ### Bonus Challenge
 
-Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos):
+Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) at [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) :
 
 - create an object that summarizes the incomplete tasks of users 3, 7, & 8
   - ex:
@@ -72,6 +72,7 @@ Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos):
 ---
 An example of the output you want is
 
+```javascript
 [
   '1-770-736-8031 x56442',
   '010-692-6593 x09125',
@@ -111,14 +112,15 @@ An example of the output you want is
       'nam quidem est ducimus sunt debitis saepe'
   },
   {
-
+```
 
 
 <br>
 
 ### JS Classes & Constructors Practice
+(This task is unrelated to the tasks above.)
 
-In a .js file, create a few classes. Create one "general category" class, then two more specific classes which extend from the first class.
+In a new .js file, create a few classes. Create one "general category" class, then two more specific classes which extend from the first class.
 
 For example: Perhaps you are creating a web store that sells video games and game consoles.
 
@@ -159,4 +161,4 @@ Go to [flexboxfroggy.com](https://flexboxfroggy.com/) and complete at least half
 Send a screenshot of your progress to your TA when you are finished.
 
 Example screenshot:
-![example flexbox froggy screenshot](https://github.com/JohanBester/sc-curriculum/blob/master/Week5-HTML&CSS2/Week5-Homework/flexboxFroggyScreenshot.png?raw=true)
+![example flexbox froggy screenshot](img/flexboxFroggyScreenshot.png)
