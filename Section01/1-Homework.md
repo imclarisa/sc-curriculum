@@ -35,6 +35,7 @@
    <br>
 
 5. Your documentation should include...
+   - [SWOT Analysis - Project Planning](https://docs.google.com/document/d/1AS_I6aDUy3FHavmheb-jS2qiLrm1xrmr6Q1uVHQKaGI/edit?usp=sharing)
    - Definition of your audience
    - Definition statement (I want to create a web application that...) for your project
    - High level story (elevator pitch)
