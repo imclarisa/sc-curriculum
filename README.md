@@ -63,21 +63,20 @@
 
 - [7.1 SPA Deploying to Netlify](Section07/7.1-DeployingToNetlify.md)
 - [7.2 APIs And Axios](Section07/7.2-APIsAndAxios1.md)
-- [7.3 Node](Section07/7.3-Node1.md)
-- [7.4 Introduction to Backend Development](Section07/7.4-BackendDevelopment.md)
 - [Section 7 - Homework](Section07/7-Homework.md)
 
 ## Section 8: **Backend Development I**
 
-- [8.1 HTTP ReSTful API](Section08/8.1-HTTP-Web-server.md)
-- [8.2 Express](Section08/8.2-Express.md)
-- [8.3 Document Storage API - MongoDB](Section08/8.3-Document-Store-API-MongoDB.md)
+- [8.1 Introduction to Backend Development](Section08/8.1-BackendDevelopment.md)
+- [8.2 HTTP Web server](Section08/8.2-HTTP-Web-server.md)
+- [8.3 Express](Section08/8.3-Express.md)
 - [Section 8 - Homework](Section08/8-Homework.md)
 
 ## Section 9: **Backend Development II**
 
 - [9.1 Abstraction Relationships](Section09/9.1-Abstraction-Relationships.md)
-- [9.2 Connecting the Frontend to the Backend](Section09/9.2-Connecting-Frontend-to-Backend.md)
+- [9.2 Document Storage API - MongoDB](Section09/9.2-Document-Store-API-MongoDB.md)
+- [9.3 Connecting the Frontend to the Backend](Section09/9.3-Connecting-Frontend-to-Backend.md)
 - [9.3 Hosting the Backend on Heroku](Section09/9.3-Hosting-On-Heroku.md)
 - [Section 9 - Homework](Section09/9-Homework.md)
 
