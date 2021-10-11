@@ -92,7 +92,7 @@ Backend development: Node.js, Building servers with Node, Express, MongoDB datab
 ## Students must complete and effectively present a capstone project. Said project will meet the following general requirements:
 ### Students must complete and effectively present a capstone project. Said project will meet the following general requirements
 <ul>
-  <li>Display an effective approach to the project-planning process. This includes wireframing, UX/UI design, Trello boards, etc.</li>
+  <li>Display an effective approach to the project-planning process. This includes wireframing, UX/UI design, Jira boards, etc.</li>
   <li>Display an understanding of semantic HTML and modern CSS approaches.</li>
   <li>Render as a Single Page Application using a ‘state’ object and a ‘render’ function to display ‘views.’</li>
   <li>Log a sensical, well-organized ‘commit’ history.</li>

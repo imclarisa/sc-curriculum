@@ -78,7 +78,7 @@
 - [9.1 Abstraction Relationships](Section09/9.1-Abstraction-Relationships.md)
 - [9.2 Connecting the Frontend to the Backend](Section09/9.3-Connecting-Frontend-to-Backend.md)
 - [9.3 Hosting the Backend on Heroku](Section09/9.3-Hosting-On-Heroku.md)
-- [Section 9 - Homework](Section09-/9-Homework.md)
+- [Section 9 - Homework](Section09/9-Homework.md)
 
 ## Section 10: **Interview Preparations**
 
