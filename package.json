@@ -4,26 +4,13 @@
   "description": "curriculum repo for Savvy Coders",
   "main": "index.js",
   "scripts": {
-    "parcel-build": "parcel build index.html && cp _redirects ./dist/",
-    "serve": "parcel index.html",
-    "test": "./node_modules/.bin/jasmine-node spec"
+    "serve": "markserv README.md"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.12.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "jasmine": "^3.7.0",
-    "prettier": "1.19.1",
-    "stylelint": "^11.1.1",
-    "stylelint-config-prettier": "^6.0.0",
-    "stylelint-config-recommended": "^3.0.0",
-    "stylelint-prettier": "^1.1.2",
-    "stylelint-vscode": "^7.0.0-6"
+    "markserv": "^1.17.4"
   },
-  "dependencies": {
-    "parcel-bundler": "1.12.3"
-  }
+  "dependencies": {}
 }
