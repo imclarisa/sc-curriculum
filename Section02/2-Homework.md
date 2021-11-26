@@ -17,7 +17,7 @@
 
 ## Set-up your Homework repo on GitHub
 
-1. Use the [Savvy-Homework template repo](https://github.com/savvy-coders/savvy-homework) to _create a new GitHub repo for homework_ - name it something that indicates it is for **Savvy Coders Homework**
+1. Use the [Savvy-Coders Starter template repo](https://github.com/savvy-coders/savvy-starter) to _to create a new GitHub repo for homework on your own account_ - name it something that indicates it is for **Savvy Coders Homework**
 2. _Clone the repo_ to your machine
 
 <br>
