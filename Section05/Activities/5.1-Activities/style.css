@@ -9,20 +9,31 @@
   justify-content: space-between;
 }
 
+form {
+  margin: 2em;
+}
+
 @media print {
   .flex > * {
     border: none;
   }
 }
 
-@media (hover: hover) {
+/* @media (hover: hover) {
   * {
     color: red;
   }
-}
+} */
 
 @media (max-width: 700px) {
   * {
     color: purple;
+    /* flex-direction: column; */
+  }
+}
+
+@media (min-width: 2000px) {
+  * {
+    color:yellow;
   }
 }
