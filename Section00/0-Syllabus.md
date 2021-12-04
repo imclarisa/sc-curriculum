@@ -28,14 +28,14 @@
   <li>Use JS to manage data.</li>
   <li>Apply a model-view-updater architecture to create a modern, state-driven single-page application written in vanilla ES2015+ JavaScript.</li>
   <li>Use JS to build a CRUD server utilizing Node.js and Express.</li>
-  <li>Manage long-term data storage via CRUD server and PostgreSQL database.</li>
+  <li>Manage long-term data storage via CRUD server and MongoDB database.</li>
   <li>Pass both Master Class Level and advanced Certified AGILE Professional courses and receive both certificates.</li>
 </ul>
 
 ## <b>COURSE DESCRIPTION</b>
 <p>Over an intense 12 weeks, students will be taken from knowing just a few basics of web development to being fully qualified for junior developer positions.</p>
 
-<p>The technical portion of our 12-week core curriculum starts by teaching students all about web/software development tooling. This would include version control, text editors, and shell commands and modern linters to help ensure high-quality code. Students start by learning Markdown. Next students apply modern HTML/CSS to create responsive website layouts. From then on, we focus on JS - DOM interactions, managing collections of data by composing functions, receiving data from an API, and converting a traditional static site into a Single Page Application.   After learning how to create and manage a web-page on the front end, students will then learn to create a Node.js CRUD server. They will use this server to manage long-term data storage via a PostgreSQL database.</p>
+<p>The technical portion of our 12-week core curriculum starts by teaching students all about web/software development tooling. This would include version control, text editors, and shell commands and modern linters to help ensure high-quality code. Students start by learning Markdown. Next students apply modern HTML/CSS to create responsive website layouts. From then on, we focus on JS - DOM interactions, managing collections of data by composing functions, receiving data from an API, and converting a traditional static site into a Single Page Application.   After learning how to create and manage a web-page on the front end, students will then learn to create a Node.js CRUD server. They will use this server to manage long-term data storage via a MongoDB database.</p>
 
 ## <b>COURSE CURRICULUM</b>
 <p>The main course curriculum is usually updated in between cohort sessions based on prior student outcomes. This is our GIT book-basically your “textbook” supplied via the internet.</p>
@@ -99,5 +99,6 @@ Backend development: Node.js, Building servers with Node, Express, MongoDB datab
   <li>Use an external API to send/receive data and update Single Page Application views accordingly.</li>
   <li>Incorporate a back end – Node.JS / Express.JS/ MongoDB</li>
   <li>Deploy the frontend SPA to Netlify, backend API to Heroku, and database to MongoDB Atlas.</li>
+  <li>The user flow of the project should NOT include an authentication process. This means there should not be user registration or a login screen.</li>
   <li>Satisfactory completion of all assigned HW and in-class ‘practice project’ repo.</li>
 </ul>
