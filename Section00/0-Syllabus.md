@@ -28,7 +28,7 @@
   <li>Use JS to manage data.</li>
   <li>Apply a model-view-updater architecture to create a modern, state-driven single-page application written in vanilla ES2015+ JavaScript.</li>
   <li>Use JS to build a CRUD server utilizing Node.js and Express.</li>
-  <li>Manage long-term data storage via CRUD server and MongoDB database.</li>
+  <li>Manage long-term data storage via REST server and MongoDB database.</li>
   <li>Pass both Master Class Level and advanced Certified AGILE Professional courses and receive both certificates.</li>
 </ul>
 
