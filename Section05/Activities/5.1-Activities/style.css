@@ -1,16 +1,24 @@
-/* this adds a border around the flex items */
-.flex > * {
-  border: 1px solid;
-}
+/*
+	Several sections have been commented out
+	These sections are the solutions for the different activities.
+	Uncomment the sections to have the styling take effect.
+*/
 
+
+/*  this sets up the flex container */
 .flex {
   display: flex;
   /* flex-direction: row-reverse; */
   justify-content: space-between;
 }
 
-form {
-  margin: 2em;
+/* this adds a border around the flex items */
+.flex > * {
+  border: 1px solid;
+}
+
+body > form {
+	margin: 2em;
 }
 
 @media print {
@@ -20,7 +28,7 @@ form {
 }
 
 /* @media (hover: hover) {
-  * {
+  *:hover  {
     color: red;
   }
 } */
