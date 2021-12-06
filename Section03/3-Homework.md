@@ -48,12 +48,7 @@
 7. Add, commit, and push your JS file to your GitHub repo.
 8. Send your TA a link to your GitHub Homework repo when finished.
 
-## Bonus Challenge
-
-9. Figure out how to add "and" before the last topping in a list of toppings so when we list toppings it is more grammatically correct. You could create a `listToppings` function that stores the functionality, and call the function each time we list toppings in a function.
-   - i.e. "Our toppings are a, b, and c." instead of "Our toppings are a, b, c"
-10. In `getPizzaOrder`, if an order is placed with no toppings, print a slightly different message, like "One large thick crust cheese pizza coming up!" (Instead of "One large thick crust pizza with coming up!"). Alter `servePizza` in a similar way to fix its grammar when serving a "plain" cheese pizza.
-11. In `getPizzaOrder`, check the toppings the customer ordered against your list of available toppings. If they order a topping you don't offer, print a message that informs them you don't offer that topping and to order again.
+<br>
 
 An example output for this assignment is:
 
@@ -62,10 +57,11 @@ One large thin crust pizza with sausage, onions, peppers, . Coming up!
 ...your pizza is cooking...
 Order up! Here's your large thin crust pizza with sausage, onions, peppers, . Enjoy!
 
-```javascript
-{
-  size: 'small',
-  crust: 'thin',
-  toppings: [ 'mushrooms', 'banana peppers' ]
-}
-```
+<br>
+
+## Bonus Challenge
+
+9. Figure out how to add "and" before the last topping in a list of toppings so when we list toppings it is more grammatically correct. You could create a `listToppings` function that stores the functionality, and call the function each time we list toppings in a function.
+   - i.e. "Our toppings are a, b, and c." instead of "Our toppings are a, b, c"
+10. In `getPizzaOrder`, if an order is placed with no toppings, print a slightly different message, like "One large thick crust cheese pizza coming up!" (Instead of "One large thick crust pizza with coming up!"). Alter `servePizza` in a similar way to fix its grammar when serving a "plain" cheese pizza.
+11. In `getPizzaOrder`, check the toppings the customer ordered against your list of available toppings. If they order a topping you don't offer, print a message that informs them you don't offer that topping and to order again.
