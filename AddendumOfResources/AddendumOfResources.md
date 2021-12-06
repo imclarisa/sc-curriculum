@@ -139,7 +139,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 - [The Definitive JavaScript Handbook for your next developer interview](https://www.freecodecamp.org/news/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e/)
-- [You Don't Know JS: 'this' & Object Prototypes - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
+- [You Don't Know JS: 'this' & Object Prototypes - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/)
 
 ### Physical Books
 
