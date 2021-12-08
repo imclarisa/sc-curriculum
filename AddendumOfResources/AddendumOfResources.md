@@ -65,7 +65,6 @@
 
 - [UI and UX Considerations](#ui-and-ux-considerations)
 
-
 <br>
 
 ---
@@ -140,6 +139,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 - [The Definitive JavaScript Handbook for your next developer interview](https://www.freecodecamp.org/news/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e/)
+- [You Don't Know JS: 'this' & Object Prototypes - 1st Edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/)
 
 ### Physical Books
 
@@ -403,6 +403,7 @@ Create a profile for yourself and select your areas of interest
 
 - [How The Model View Controller Architecture Works](https://www.freecodecamp.org/news/model-view-architecture/)
 - [What is "State" in Programming?](https://youtu.be/g8-Xrpl_Uhk) Watch this YouTube video for a simple explanation
+
 ---
 
 <br>

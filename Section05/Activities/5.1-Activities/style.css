@@ -1,12 +1,24 @@
+/*
+	Several sections have been commented out
+	These sections are the solutions for the different activities.
+	Uncomment the sections to have the styling take effect.
+*/
+
+
+/*  this sets up the flex container */
+.flex {
+  display: flex;
+  /* flex-direction: row-reverse; */
+  justify-content: space-between;
+}
+
 /* this adds a border around the flex items */
 .flex > * {
   border: 1px solid;
 }
 
-.flex {
-  display: flex;
-  /* flex-direction: row-reverse; */
-  justify-content: space-between;
+body > form {
+	margin: 2em;
 }
 
 @media print {
@@ -15,14 +27,21 @@
   }
 }
 
-@media (hover: hover) {
-  * {
+/* @media (hover: hover) {
+  *:hover  {
     color: red;
   }
-}
+} */
 
 @media (max-width: 700px) {
   * {
     color: purple;
+    /* flex-direction: column; */
+  }
+}
+
+@media (min-width: 2000px) {
+  * {
+    color:yellow;
   }
 }
