@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "markserv": "^1.17.4"
+    "markserv": "^1.17.4",
+    "glob-parent": ">=5.1.2"
   },
   "dependencies": {}
 }
