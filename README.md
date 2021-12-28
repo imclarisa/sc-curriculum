@@ -78,7 +78,7 @@
 - [9.1 CRUD Operations using Express Routes](Section09/9.1-CRUD-Operations-Using-Express-Routes.md)
 - [9.2 Submitting data to the API server from a SPA](Section09/9.2-Submit-Data-To-API-From-SPA.md)
 - [9.3 Hosting your API with Heroku-And-Connect-To-Frontend](Section09/9.3-Heroku-Hosting-Connect-To-Frontend.md)
-- [9.4 !OPTIONAL! Relationships in a Document Store DB](Section09/9.4-OPTIONAL-Relationships.md)
+- [9.4 ! OPTIONAL ! Relationships in a Document Store DB](Section09/9.4-OPTIONAL-Relationships.md)
 - [Section 9 - Homework](Section09/9-Homework.md)
 
 ## Section 10: **Interview Preparations**
