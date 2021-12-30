@@ -69,16 +69,16 @@
 ## Section 8: **Backend Development I**
 
 - [8.1 Introduction to Backend Development](Section08/8.1-BackendDevelopment.md)
-- [8.2 HTTP Web server](Section08/8.2-HTTP-Web-server.md)
-- [8.3 Express](Section08/8.3-Express.md)
+- [8.2 HTTP Web server using Express](Section08/8.2-HTTP-Server-using-Express.md)
+- [8.3 MongoDB Configuration and Setup](Section08/8.3-MongoDB-Config-and-Setup.md)
 - [Section 8 - Homework](Section08/8-Homework.md)
 
 ## Section 9: **Backend Development II**
 
-- [9.1 Document Storage API - MongoDB](Section09/9.1-Document-Store-API-MongoDB.md)
-- [9.2 Connecting the Frontend to the Backend](Section09/9.2-Heroku-Hosting-Connect-To-Frontend.md)
-- [9.3 Submitting data to the API server from a SPA](Section09/9.3-Submit-Data-To-API-From-SPA.md)
-- [9.4 !OPTIONAL! Relationships in a Document Store DB](Section09/9.4-OPTIONAL-Relationships.md)
+- [9.1 CRUD Operations using Express Routes](Section09/9.1-CRUD-Operations-Using-Express-Routes.md)
+- [9.2 Submitting data to the API server from a SPA](Section09/9.2-Submit-Data-To-API-From-SPA.md)
+- [9.3 Hosting your API with Heroku-And-Connect-To-Frontend](Section09/9.3-Heroku-Hosting-Connect-To-Frontend.md)
+- [9.4 ! OPTIONAL ! Relationships in a Document Store DB](Section09/9.4-OPTIONAL-Relationships.md)
 - [Section 9 - Homework](Section09/9-Homework.md)
 
 ## Section 10: **Interview Preparations**
