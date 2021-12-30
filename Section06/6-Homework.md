@@ -31,7 +31,6 @@
 - Add a file for each page in your capstone in `views` and `store`
 - Remember to build your aggregators (`index.js`) in `components`, `views`, and `store`
 
-
 An example of the file structure
 
-![Stateless File Structure](img/StatelessFileStructure.png)
+![Stateless File Structure](Resources/img/StatelessFileStructure.png)
