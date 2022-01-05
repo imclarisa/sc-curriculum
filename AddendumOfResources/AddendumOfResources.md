@@ -1,6 +1,6 @@
 # Addendum Of Resources
 
-### Table of Content
+## Table of Content
 
 ### A
 
@@ -163,9 +163,9 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 ## Coding sites to practice and earn badges
 
-- www.adventofcode.com
-- www.hackerrank.com
-- www.codewars.com
+- [www.adventofcode.com](www.adventofcode.com)
+- [www.hackerrank.com](www.hackerrank.com)
+- [www.codewars.com](www.codewars.com)
 
 <br>
 
@@ -238,6 +238,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Client Side Storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 - [Developer career roadmaps](https://roadmap.sh/)
 - [Tiny helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers...
+- [Full Calendar](https://fullcalendar.io) - FullCalendar's vanilla JavaScript API is blazing fast
 
 <br>
 
@@ -330,12 +331,12 @@ CodePen.io is a social development environment for front-end designers and devel
 
 Create a profile for yourself and select your areas of interest
 
-- www.meetup.com/jstl-meetup/
-- www.meetup.com/STLFullStack/
-- www.meetup.com/codetilldawn/
-- www.meetup.com/STLXMeetup/
-- www.meetup.com/STL-Polyglots/
-- www.meetup.com/Savvy-Coders-Connect/
+- [www.meetup.com/jstl-meetup](www.meetup.com/jstl-meetup)
+- [www.meetup.com/STLFullStack](www.meetup.com/STLFullStack)
+- [www.meetup.com/codetilldawn](www.meetup.com/codetilldawn)
+- [www.meetup.com/STLXMeetup](www.meetup.com/STLXMeetup)
+- [www.meetup.com/STL-Polyglots](www.meetup.com/STL-Polyglots)
+- [www.meetup.com/Savvy-Coders-Connect](www.meetup.com/Savvy-Coders-Connect)
 
 <br>
 
@@ -345,9 +346,9 @@ Create a profile for yourself and select your areas of interest
 
 ## Other Bootcamps
 
-- www.launchcode.org/coder_girl
-- www.launchcode.org/
-- www.codecademy.com/
+- [www.launchcode.org/coder_girl](www.launchcode.org/coder_girl)
+- [www.launchcode.org](www.launchcode.org)
+- [www.codecademy.com](www.codecademy.com)
 
 <br>
 
@@ -369,9 +370,9 @@ Create a profile for yourself and select your areas of interest
 
 ## RegEx - Regular Expressions in JavaScript
 
-- www.sitepoint.com/expressions-javascript/
-- www.youtube.com/watch?v=VrT3TRDDE4M
-- www.github.com/dwyl/learn-regex
+- [www.sitepoint.com/expressions-javascript](www.sitepoint.com/expressions-javascript)
+- [www.youtube.com/watch?v=VrT3TRDDE4M](www.youtube.com/watch?v=VrT3TRDDE4M)
+- [www.github.com/dwyl/learn-regex](www.github.com/dwyl/learn-regex)
 
 <br>
 
@@ -381,17 +382,17 @@ Create a profile for yourself and select your areas of interest
 
 ## Sites with additional training courses
 
-- www.freecodecamp.org/learn
-- www.edx.org
-- www.codecademy.com
-- www.coursera.org
-- www.udemy.com/
-- www.w3schools.com
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-- www.lynda.com/
-- www.pluralsight.com/
-- www.coursera.org/
-- www.YouTube.com
+- [www.freecodecamp.org/learn](www.freecodecamp.org/learn)
+- [www.edx.org](www.edx.org)
+- [www.codecademy.com](www.codecademy.com)
+- [www.coursera.org](www.coursera.org)
+- [www.udemy.com](www.udemy.com)
+- [www.w3schools.com](www.w3schools.com)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn)
+- [www.lynda.com](www.lynda.com)
+- [www.pluralsight.com](www.pluralsight.com)
+- [www.coursera.org](www.coursera.org)
+- [www.YouTube.com](www.YouTube.com)
 
 <br>
 
@@ -412,5 +413,5 @@ Create a profile for yourself and select your areas of interest
 
 - [What is the difference between UI and UX?](https://www.freecodecamp.org/news/ui-ux-design-guide/)
 - [What is Figma? A Design Crash Course](https://www.freecodecamp.org/news/figma-crash-course/)
-
----
+- [Color Blind Filter](https://www.toptal.com/designers/colorfilter/)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
