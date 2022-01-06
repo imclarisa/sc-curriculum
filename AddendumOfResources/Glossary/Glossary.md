@@ -1,6 +1,6 @@
 # Glossary
 
-### Agile
+## Agile
 
 | Term        | Definition  |
 | ----------- | ----------- |
@@ -59,8 +59,8 @@ These terms and a more in-depth look into Agile can be found
 | Term        | Definition  |
 | ----------- | ----------- |
 | JavaScript   | JavaScript (JS) is the most applicable, powerful and flexible language in the world today - no other language in the world allows us to work natively in the browser (client side) while also on the server (NodeJS) while also creating super-fast web-based applications (Single Page Applications - SPAs - Angular or React or Vue) while also using the same code to create native desktop applications (Electron) while also creating native mobile apps (React Native or NativeScript)!    |
-| HTML   | Text        |
-| CSS   | Text        |
+| HTML   | A markup language for describing the structure and content of web documents/pages.        |
+| CSS   | CSS is the language we use to style an HTML document.       |
 | Markdown   | A simple markup language for formatting text.     |
 
 ## JavaScript
@@ -127,10 +127,19 @@ These terms and a more in-depth look into Agile can be found
 | ----------- | ----------- |
 | Primitive vs Complex   | Text        |
 | Arrays    | Text        |
+| Indexing   | Text        |
+| Length   | Text        |
+| for... of loops   | Text        |
 | Objects   | Text        |
+| Properties   | Text        |
 | Bracket Notation   | Text        |
-|    | Text        |
-|    | Text        |
+| Dot Notation   | Text        |
+| Methods   | Text        |
+| Global Window Object   | Text        |
+| Mutation   | Text        |
+| Reference vs Value   | Text        |
+| Passing Reference vs Value   | Text        |
+| String Methods   | Text        |
 
 ### Array Methods
 
@@ -159,6 +168,15 @@ These terms and a more in-depth look into Agile can be found
 |    | Text        |
 
 ## HTML/CSS
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| "Text Content"   | Text        |
+| Tags   | Text        |
+| HTML Boilerplate   | View tags here: [Tags](#html-boilerplate)     |
+|    | Text        |
+|    | Text        |
+|    | Text        |
 
 ###
 
