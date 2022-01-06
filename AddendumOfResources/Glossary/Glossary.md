@@ -1,6 +1,10 @@
 # Glossary
 
-## Agile
+## Introduction (Agile, Project Planning, Dev Tools, Languages)
+
+---
+
+### Agile
 
 | Term        | Definition  |
 | ----------- | ----------- |
@@ -22,7 +26,7 @@
 | Development Team   | Text        |
 | 4 Pillars   | Text        |
 
-These terms and a more in-depth look into Agile can be found
+These terms and a more in-depth look into Agile can be found here: [Agile Glossary](https://scrumguides.org/scrum-guide.html)
 
 ### Project Planning
 
@@ -65,9 +69,9 @@ These terms and a more in-depth look into Agile can be found
 
 ## JavaScript
 
-### Data Types and Variables
+---
 
-#### Data Types
+### Data Types
 
 | Term        | Definition  |
 | ----------- | ----------- |
@@ -79,7 +83,7 @@ These terms and a more in-depth look into Agile can be found
 | Null   | Text        |
 | typeOf Operator   | Text        |
 
-#### Variables
+### Variables
 
 | Term        | Definition  |
 | ----------- | ----------- |
@@ -139,51 +143,69 @@ These terms and a more in-depth look into Agile can be found
 | Mutation   | Text        |
 | Reference vs Value   | Text        |
 | Passing Reference vs Value   | Text        |
-| String Methods   | Text        |
 
-### Array Methods
-
-| Term        | Definition  |
-| ----------- | ----------- |
-|    | Text        |
-|    | Text        |
-|    | Text        |
-
-### Classes
+### String & Array Methods
 
 | Term        | Definition  |
 | ----------- | ----------- |
-|    | Text        |
-|    | Text        |
-|    | Text        |
+| String Methods   | JavaScript has a range of methods for doing String manipulation operations, such as `.toUpperCase()` and `.indexOf`. To review other string methods and to see examples, click here: [String Methods](../../Section04/4.2-ArrayMethods1.md#useful-string-methods)        |
+| Array Properties   | Helps to use collections of data more effectively, such as `.length`.        |
+| Array Methods   | Helps to use collections of data more effectively, such as `.push()`.        |
+| Examples of Basic Array Methods  | To see examples and review syntax of Array Methods like `.push()`, click here: [Basic Array Methods](../../Section04/4.2-ArrayMethods1.md#useful-string-methods)        |
+| Examples of Complex Array Methods   | To see examples and review syntax of Array Methods like `.forEach()` and `.map()`, click here: [Complex Array Methods](../../Section04/4.3-ArrayMethods2.md#more-array-methods)        |
 
-## Document Object Model (DOM)
-
-### JS and the DOM
+### JS and the DOM(Document Object Model)
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Document Object Model (DOM)   | connects web pages to scripts or programming languages by representing the structure of a document. An example is the HTML representing a web page — in memory.        |
+| DOM (Document Object Model)   | Connects web pages to scripts or programming languages by representing the structure of a document. An example is the HTML representing a web page — in memory.        |
 | DOM Methods   | To begin interacting with the HTML document, we first need to select some piece of the DOM. We can find elements by their HTML tag name, class name, or ID. To review, click here: [Selecting HTML Elements](../../Section04/4.1-DocumentObjectModel.md#dom-methods)      |
 | DOM Tree   | The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects.        |
 | Node Tree   |  The nodes in the node tree have a hierarchical relationship to each other, and the terms parent, child, and sibling are used to describe the relationships. In a node tree, the top node is called the root node. Every node has exactly one parent, except the root (which has no parent). A node can have a number of children. Siblings are nodes with the same parent.       |
 | Example of DOM Tree     | [DOM Tree Example](../../Section04/4.1-DocumentObjectModel.md#dom-tree-example)        |
 | Accessing Elements via Node Relationships   | `.children`, `.firstElementChild`, `.lastElementChild`, `.nextElementSibling`, `.parentElement` are node properties used to navigate between nodes.        |
 | Node Properties   | To review which node properties are used to access different pieces of the element node, such as `.outerHTML` and `.innerHTML`, click here: [Node Properties](../../Section04/4.1-DocumentObjectModel.md#changing-html-elements)        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
+| Adding & Removing Elements   | To add a new HTML element to the DOM, you must first create the new element before appending it. Use the following DOM methods to add or remove elements: `.createElement()`, `.appendChild()`, `.removeChild(child)`, `.remove()`. To review examples, click here: [Adding/Removing Elements](../../Section04/4.1-DocumentObjectModel.md#adding--removing-elements)           |
+| Events & Event Handling   | Nodes can also have event handlers attached to them. Once an event is triggered, the event handlers get executed.        |
+| Common Events   | `click` and `dblclick`, `mousedown` and `mouseup`, `mouseover` and `mouseout`, `focus` and `blur`, `keydown` and `keyup` and `keypress`       |
+| Event Listeners   | "Handlers", to review syntax and see and example of `.addEventListener()`, click here: [Event Listeners](../../Section04/4.1-DocumentObjectModel.md#addingremoving-event-listeners)        |
 |    | Text        |
 |    | Text        |
 |    | Text        |
 |    | Text        |
 |    | Text        |
 
+### Object-Oriented Programming (OOP)
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Object-Oriented Programming (OOP)   | Text        |
+| Methods   | Text        |
+| this   | Text        |
+| function constructors   | Text        |
+| Object.prototype   | Text        |
+| Inheritance   | Text        |
+| Over-writting   | Text        |
+| class   | Text        |
+| extend   | Text        |
+| super()   | Text        |
+| constructor()   | Text        |
+| Additional Methods   | Text        |
+
+### Unit Testing (Dev Note, not sure if this is exactly where we want to put this section)
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Functional Tests   | Text        |
+| Unit Testing   | Text        |
+| Jasmine   | Text        |
+| Arrange-Act-Assert   | Text        |
+| Why Unit Test?   | Text        |
+|    | Text        |
 
 ## HTML/CSS
+
+---
 
 ### Basics of HTML and CSS
 
@@ -201,10 +223,158 @@ These terms and a more in-depth look into Agile can be found
 |    | Text        |
 |    | Text        |
 
-###
+### Intermediate HTML & CSS (Dev note, this will include 5.1 and 5.3)
 
 | Term        | Definition  |
 | ----------- | ----------- |
+| `<form>` and `<input>` tags   | Text        |
+| action and method   | Text        |
+| attributes: for and name   | Text        |
+| Media Query   | Text        |
+| Media Types   | Text        |
+| Media Features   | Text        |
+| Element Positioning   | Text        |
+| Static   | Text        |
+| Relative vs Absolute   | Text        |
+| Flexbox   | Text        |
+| CSS Units   | Text        |
+| Keywords vs Hexadecimal vs rgb   | Text        |
+| CSS Variables   | Text        |
+| Fonts   | Text        |
+| Jumbotron/Hero   | Text        |
+
+## SPAs (dev note, need to discuss how we want to hit definitions or if we just want this to be a reference to examples) Section 6
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Single-Page Application (SPA)    | Text        |
+| Search Engine Optimization (SEO)   | Text        |
+| Frameworks   | Text        |
+| SPA File Structure   | Text        |
+| components/lib/store   | Text        |
+| index.js in an SPA   | Text        |
+| MVC Pattern   | Text        |
+| Model   | Text        |
+| View   | Text        |
+| Update   | Text        |
+| Modules   | Text        |
+| export statements   | Text        |
+| import statements   | Text        |
+| aggregating exports   | Text        |
+| Data Model   | Text        |
+| State   | Text        |
+| MVU Architecture   | Text        |
+| Routing and Navigo   | Text        |
+| State Driven SPA File Structure   | Text        |
 |    | Text        |
 |    | Text        |
 |    | Text        |
+
+## Backend Development
+
+### Section 7
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Asynchronous Functions   | Text        |
+| AJAX   | Text        |
+| APIs   | Text        |
+| ReSTful API   | Text        |
+| Authorization   | Text        |
+| fetch API   | Text        |
+| Axios   | Text        |
+| Promise   | Text        |
+| Query Params   | Text        |
+| dotenv/ .env   | Text        |
+| .gitignore   | Text        |
+| Order of root index.js file   | Text        |
+
+### Section 8
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Application Tier  | Text        |
+| Data Tier  | Text        |
+| Backend Development| Text        |
+| Built-in Modules    | Text        |
+| runtime   | Text        |
+| REPL   | Text        |
+| Global Object   | Text        |
+| Node (CommonJS)   | Text        |
+| Browsers (ES6 modules)   | Text        |
+| fs/path/crypto/http   | Text        |
+| curl   | Text        |
+| httpie   | Text        |
+| Postman/Insomnia   | Text        |
+| nodemon   | Text        |
+| "Safe" Methods   | Text        |
+| "Idempotent" Methods   | Text        |
+| HTTP Methods   | Text        |
+| Get   | Text        |
+| Post   | Text        |
+| Put   | Text        |
+| Patch   | Text        |
+| Delete   | Text        |
+| API Servers (REST)  | Text        |
+| Client-Server Separation   | Text        |
+| Statelessness   | Text        |
+| Cacheable Resources   | Text        |
+| Uniform Interface   | Text        |
+| Layered Architecture   | Text        |
+| express server   | Text        |
+| request.params   | Text        |
+| response methods   | Text        |
+| Middleware   | Text        |
+| Logging   | Text        |
+| PORT   | Text        |
+
+### Section 9
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Abstractions   | Text        |
+| one-to-one relationship   | Text        |
+| one-to-many relationship   | Text        |
+| many-to-many relationship   | Text        |
+| model   | Text        |
+| controller   | Text        |
+| controller   | Text        |
+| schema   | Text        |
+| CRUD Operations   | Text        |
+| Database   | Text        |
+| Structure Query Language (SQL)   | Text        |
+| record/row   | Text        |
+| column   | Text        |
+| Relational Database Management System (RDBMS)   | Text        |
+| relational databases   | Text        |
+| NoSQL   | Text        |
+| NoSQL Database Types   | Text        |
+| MongoDB   | Text        |
+| Cross-Origin Resouce Sharing (Cors)   | Text        |
+| Heroku   | Text        |
+| Frontend (SPA)   | Text        |
+| Backend (Server)   | Text        |
+| Serverless Architecture   | Text        |
+
+## Job Preparation Tools
+
+### Interview Prep
+
+| Term        | Definition  |
+| ----------- | ----------- |
+| Whiteboarding   | Text        |
+| Relationships and Networks   | Text        |
+| Courage and Candor   | Text        |
+| Agility   | Text        |
+| Initiative and Foresight   | Text        |
+| Results Orientation   | Text        |
+| STAR Method   | Text        |
+| Situation   | Text        |
+| Task   | Text        |
+| Action   | Text        |
+| Result   | Text        |
+| Functional Tests   | Text        |
+| Unit Testing   | Text        |
+| Jasmine   | Text        |
+| Arrange-Act-Assert   | Text        |
+| Why does Unit Testing Matter?   | Text        |
