@@ -125,6 +125,9 @@ These terms and a more in-depth look into Agile can be found
 
 | Term        | Definition  |
 | ----------- | ----------- |
+| Primitive vs Complex   | Text        |
+| Arrays    | Text        |
+| Objects   | Text        |
 |    | Text        |
 |    | Text        |
 |    | Text        |
