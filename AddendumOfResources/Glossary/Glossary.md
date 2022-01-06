@@ -128,7 +128,7 @@ These terms and a more in-depth look into Agile can be found
 | Primitive vs Complex   | Text        |
 | Arrays    | Text        |
 | Objects   | Text        |
-|    | Text        |
+| Bracket Notation   | Text        |
 |    | Text        |
 |    | Text        |
 
