@@ -63,21 +63,22 @@
 
 - [7.1 SPA Deploying to Netlify](Section07/7.1-DeployingToNetlify.md)
 - [7.2 APIs And Axios](Section07/7.2-APIsAndAxios1.md)
+- [7.3 Intro to Whiteboarding](Section07/7.3-Whiteboarding.md)
 - [Section 7 - Homework](Section07/7-Homework.md)
 
 ## Section 8: **Backend Development I**
 
 - [8.1 Introduction to Backend Development](Section08/8.1-BackendDevelopment.md)
-- [8.2 HTTP Web server](Section08/8.2-HTTP-Web-server.md)
-- [8.3 Express](Section08/8.3-Express.md)
+- [8.2 HTTP Web server using Express](Section08/8.2-HTTP-Server-using-Express.md)
+- [8.3 MongoDB Configuration and Setup](Section08/8.3-MongoDB-Config-and-Setup.md)
 - [Section 8 - Homework](Section08/8-Homework.md)
 
 ## Section 9: **Backend Development II**
 
-- [9.1 Abstraction Relationships](Section09/9.1-Abstraction-Relationships.md)
-- [9.2 Document Storage API - MongoDB](Section09/9.2-Document-Store-API-MongoDB.md)
-- [9.3 Connecting the Frontend to the Backend](Section09/9.3-Connecting-Frontend-to-Backend.md)
-- [9.3 Hosting the Backend on Heroku](Section09/9.3-Hosting-On-Heroku.md)
+- [9.1 CRUD Operations using Express Routes](Section09/9.1-CRUD-Operations-Using-Express-Routes.md)
+- [9.2 Submitting data to the API server from a SPA](Section09/9.2-Submit-Data-To-API-From-SPA.md)
+- [9.3 Hosting your API with Heroku-And-Connect-To-Frontend](Section09/9.3-Heroku-Hosting-Connect-To-Frontend.md)
+- [9.4 ! OPTIONAL ! Relationships in a Document Store DB](Section09/9.4-OPTIONAL-Relationships.md)
 - [Section 9 - Homework](Section09/9-Homework.md)
 
 ## Section 10: **Interview Preparations**
@@ -93,7 +94,7 @@
 
 - 11.1 Capstone Work
 - 11.2 Capstone Work
-- [11.3 Whiteboarding and Capstone Work](Section11/11.3-Whiteboarding.md)
+- [11.3 Whiteboarding](Section11/11.3-Whiteboarding.md)
 - 11.4 Mock Interviews
 
 ## Section 12: **Demo Day Preparations**
