@@ -163,18 +163,41 @@ These terms and a more in-depth look into Agile can be found
 
 | Term        | Definition  |
 | ----------- | ----------- |
+| Document Object Model (DOM)   | connects web pages to scripts or programming languages by representing the structure of a document. An example is the HTML representing a web page — in memory.        |
+| DOM Methods   | To begin interacting with the HTML document, we first need to select some piece of the DOM. We can find elements by their HTML tag name, class name, or ID. To review, click here: [Selecting HTML Elements](../../Section04/4.1-DocumentObjectModel.md#dom-methods)      |
+| DOM Tree   | The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects.        |
+| Node Tree   |  The nodes in the node tree have a hierarchical relationship to each other, and the terms parent, child, and sibling are used to describe the relationships. In a node tree, the top node is called the root node. Every node has exactly one parent, except the root (which has no parent). A node can have a number of children. Siblings are nodes with the same parent.       |
+| Example of DOM Tree     | [DOM Tree Example](../../Section04/4.1-DocumentObjectModel.md#dom-tree-example)        |
+| Accessing Elements via Node Relationships   | `.children`, `.firstElementChild`, `.lastElementChild`, `.nextElementSibling`, `.parentElement` are node properties used to navigate between nodes.        |
+| Node Properties   | To review which node properties are used to access different pieces of the element node, such as `.outerHTML` and `.innerHTML`, click here: [Node Properties](../../Section04/4.1-DocumentObjectModel.md#changing-html-elements)        |
 |    | Text        |
 |    | Text        |
 |    | Text        |
+|    | Text        |
+|    | Text        |
+|    | Text        |
+|    | Text        |
+|    | Text        |
+|    | Text        |
+|    | Text        |
+|    | Text        |
+
 
 ## HTML/CSS
 
+### Basics of HTML and CSS
+
 | Term        | Definition  |
 | ----------- | ----------- |
-| "Text Content"   | Text        |
-| Tags   | Text        |
-| HTML Boilerplate   | View tags here: [Tags](#html-boilerplate)     |
-|    | Text        |
+| "Text Content"   | The 'text content' is what we see on the page, and the tags describe or 'mark up' that text to give it structure.        |
+| Tags   | HTML tags are keywords (tag names) surrounded by angle brackets: `<html>`, HTML tags normally come in pairs like: `<p>` and `</p>` with the first tag in a pair being the start tag while the second tag is the end tag.        |
+| HTML Tags and Attributes  | View Examples of Tags and Attributes here: [Tags and Attributes Examples](../../Section03/3.3-HTMLAndCSSBasics.md#html-boilerplate)     |
+| class and id attributes   | `class` and `id` are two global attributes that can be attached to any element in order to select and access specific elements. You can create as many classes and IDs as you need, and you can use each class as many times as you need, but each ID should only be used once.        |
+| `<div>` and `<span>` section tags   | The `<div>` element is a generic **block** element which defines a section of your page. The `<span>` element is a generic **inline** element which defines a section of your page.       |
+| Three ways to give HTML Content Some Style   | inline styles, style tags, stylesheets       |
+| Basic CSS Selectors   | `*`, `elementName`, `.className`, `#idName`. To review syntax, click here: [General CSS Syntax](../../Section03/3.3-HTMLAndCSSBasics.md#general-css-syntax)        |
+| Complex CSS selectors   | As our documents grow, we'll need to leverage more complex CSS selection syntax. To review, click here: [Complex CSS selectors](../../Section03/3.3-HTMLAndCSSBasics.md#complex-css-selectors)        |
+| Pseudo-class and Pseudo-elements   | There are some selectors that can be used to make some very basic calculations about the state of your markup, and add styles accordingly. To review: click here: [Pseudo-class and Pseudo-elements](../../Section03/3.3-HTMLAndCSSBasics.md#pseudo-classes-and-pseudo-elements)        |
 |    | Text        |
 |    | Text        |
 
