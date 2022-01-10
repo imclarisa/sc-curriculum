@@ -151,7 +151,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | String Methods   | JavaScript has a range of methods for doing String manipulation operations, such as `.toUpperCase()` and `.indexOf`. To review other string methods and to see examples, click here: [String Methods](../../Section04/4.2-ArrayMethods1.md#useful-string-methods)        |
 | Array Properties   | Helps to use collections of data more effectively, such as `.length`.        |
 | Array Methods   | Helps to use collections of data more effectively, such as `.push()`.        |
-| Examples of Basic Array Methods  | To see examples and review syntax of Array Methods like `.push()`, click here: [Basic Array Methods](../../Section04/4.2-ArrayMethods1.md#useful-string-methods)        |
+| Examples of Basic Array Methods  | To see examples and review syntax of Array Methods like `.push()`, click here: [Basic Array Methods](../../Section04/4.2-ArrayMethods1.md#adding-an-item-with-push-and-unshift)        |
 | Examples of Complex Array Methods   | To see examples and review syntax of Array Methods like `.forEach()` and `.map()`, click here: [Complex Array Methods](../../Section04/4.3-ArrayMethods2.md#more-array-methods)        |
 
 ### JS and the DOM(Document Object Model)
