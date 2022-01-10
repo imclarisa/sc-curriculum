@@ -33,4 +33,4 @@
 
 Below is an example of what the file structure could possibly look like (Ignore anything that was not covered in class. This is **_only an example_** so don't freak out or loose your feable little minds!):
 
-![Stateless File Structure](Resources/img/StatelessFileStructure.png)
+![Stateless File Structure](img/StatelessFileStructure.png)
