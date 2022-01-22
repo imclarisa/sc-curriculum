@@ -34,7 +34,6 @@
 - [3.1 Functions](Section03/3.1-Functions.md)
 - [3.2 Arrays And Objects](Section03/3.2-DataCollections.md)
 - [3.3 HTML And CSS 1](Section03/3.3-HTMLAndCSSBasics.md)
-- [3.4 HTML And CSS Addendum And Review](Section03/3.4-CSSAddendum-UnitsAndVariables.md)
 - [Section 3 - Homework](Section03/3-Homework.md)
 
 ## Section 4: **Frontend Development II**
