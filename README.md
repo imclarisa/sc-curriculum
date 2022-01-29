@@ -83,9 +83,10 @@
 ## Section 10: **Interview Preparations**
 
 - 10.1 Hosting
-- [10.2.1 Interview Prep](Section10/10.2.1-InterviewPrep.md)
-- [10.2.2 51 Questions](Section10/10.2.2-51Questions.md)
-- [10.2.3 STAR Method](Section10/10.2.3-STARmethod.md)
+- [10.1.1 Interview Prep](Section10/10.2.1-InterviewPrep.md)
+- [10.1.2 51 Questions](Section10/10.2.2-51Questions.md)
+- [10.1.3 STAR Method](Section10/10.2.3-STARmethod.md)
+- [10.2 Whiteboarding](Section11/11.3-Whiteboarding.md)
 - [10.3 Unit Testing](Section10/10.3-Unit-Testing.md)
 - 10.4 Review
 
@@ -93,7 +94,6 @@
 
 - 11.1 Capstone Work
 - 11.2 Capstone Work
-- [11.3 Whiteboarding](Section11/11.3-Whiteboarding.md)
 - 11.4 Mock Interviews
 
 ## Section 12: **Demo Day Preparations**
