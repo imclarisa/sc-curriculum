@@ -94,6 +94,7 @@
 
 - 11.1 Capstone Work
 - 11.2 Capstone Work
+- 11.3 Capstone Work
 - 11.4 Mock Interviews
 
 ## Section 12: **Demo Day Preparations**
