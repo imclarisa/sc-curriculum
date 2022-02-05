@@ -55,7 +55,7 @@ Please start with the JavaScript!!!!
    You can find a list of "tech” Meetups at [MeetUp.com](https://www.meetup.com/find/events/tech/?allMeetups=false&radius=50&userFreeform=Saint+Louis,+MO&mcId=z63117&mcName=Saint+Louis,+MO&eventFilter=mysugg)
    Several have gone virtual, there are a lot out there, please do your best.
 
-   **The clas work under points 1 - 4 are first and foremost priority.**
+   **The class work under points 1 - 4 are first and foremost priority.**
 
 <br>
 
