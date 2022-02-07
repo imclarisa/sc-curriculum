@@ -16,8 +16,6 @@ Please go to each of the links below and complete each of the courses. They will
 - The 12 Principles of Agile https://agilemanifesto.org/principles.html
 - Read about the ["Roots of Agile - Before it was Agile"](https://www.researchgate.net/publication/39996418_Historical_Roots_of_Agile_Methods_Where_Did_Agile_Thinking_Come_From)
 
-
-
 <br>
 
 2. Three courses in [Code Academy](https://www.codecademy.com/catalog). It's a way to get you exposed as well as make sure you are serious and want to follow through with this program. **DO NOT ACCEPT THE FREE TRIAL of “Pro” FOR CODE ACADEMY**.
