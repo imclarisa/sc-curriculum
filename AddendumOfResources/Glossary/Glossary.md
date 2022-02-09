@@ -78,7 +78,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Primitives   | Data types that can only hold one discrete piece of data.        |
 | String   | Text        |
 | Number   | Text        |
-| Boolean   | Text        |
+| Boolean   | True or False     |
 | Undefined   | Text        |
 | Null   | Text        |
 | typeOf Operator   | Text        |
