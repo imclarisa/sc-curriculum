@@ -23,15 +23,15 @@ body > form {
 
 
 /* Activity 5.1: Media queries
-  - Add CSS that removes the border around the flex items */
+  -Add CSS that removes the border around the flex items */
 
 
 /* Activity 5.2: Media queries
-  - Add CSS for when screen size is less than 700px */
+  -Add CSS for when screen size is less than 700px */
 
 
 /* Activity 5.3: Media queries
-  - Add CSS that checks for device hover capabilities */
+  -Add CSS that checks for device hover capabilities */
 
 
 @media (min-width: 2000px) {
