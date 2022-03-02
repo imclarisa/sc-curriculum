@@ -42,7 +42,7 @@ Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) a
 
 <br>
 
-Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts) at [https://jsonplaceholder.typicode.com/post](https://jsonplaceholder.typicode.com/post) :
+Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts) at [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts) :
 
 - create a list of user 5's posts
 - then, create a list of title and body pairs
