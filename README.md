@@ -34,7 +34,6 @@
 - [3.1 Functions](Section03/3.1-Functions.md)
 - [3.2 Arrays And Objects](Section03/3.2-DataCollections.md)
 - [3.3 HTML And CSS 1](Section03/3.3-HTMLAndCSSBasics.md)
-- [3.4 HTML And CSS Addendum And Review](Section03/3.4-CSSAddendum-UnitsAndVariables.md)
 - [Section 3 - Homework](Section03/3-Homework.md)
 
 ## Section 4: **Frontend Development II**
@@ -84,9 +83,10 @@
 ## Section 10: **Interview Preparations**
 
 - 10.1 Hosting
-- [10.2.1 Interview Prep](Section10/10.2.1-InterviewPrep.md)
-- [10.2.2 51 Questions](Section10/10.2.2-51Questions.md)
-- [10.2.3 STAR Method](Section10/10.2.3-STARmethod.md)
+- [10.1.1 Interview Prep](Section10/10.2.1-InterviewPrep.md)
+- [10.1.2 51 Questions](Section10/10.2.2-51Questions.md)
+- [10.1.3 STAR Method](Section10/10.2.3-STARmethod.md)
+- [10.2 Whiteboarding](Section11/11.3-Whiteboarding.md)
 - [10.3 Unit Testing](Section10/10.3-Unit-Testing.md)
 - 10.4 Review
 
@@ -94,7 +94,7 @@
 
 - 11.1 Capstone Work
 - 11.2 Capstone Work
-- [11.3 Whiteboarding](Section11/11.3-Whiteboarding.md)
+- 11.3 Capstone Work
 - 11.4 Mock Interviews
 
 ## Section 12: **Demo Day Preparations**
