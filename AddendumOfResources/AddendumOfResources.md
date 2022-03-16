@@ -175,7 +175,10 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 ## Computer and Data Science basics
 
-- [How do computers and the internet work?]()
+- [Introducing How Computers Work (video)](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+- [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [Epoch Time converter](https://www.epochconverter.com/)
 
 ---
 
