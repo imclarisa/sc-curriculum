@@ -9,22 +9,20 @@
 | Term        | Definition  |
 | ----------- | ----------- |
 | Scrum     | A framework that helps teams work together. This framework includes scrum artifacts, ceremonies, and roles.      |
-| Scrum Artifacts | Text        |
-| Product Backlog   | Text        |
-| Sprint Backlog   | Text        |
-| Increment (Sprint Goal)   | Text        |
-| Scrum Ceremony   | Text        |
-| Daily Standup   | Text        |
-| Backlog Organization   | Text        |
-| Sprint   | Text        |
-| Sprint Planning   | Text        |
-| Sprint Review   | Text        |
-| Sprint Retrospective   | Text        |
-| Scrum Roles  | Text        |
-| Scrum Master  | Text        |
-| Product Owner   | Text        |
-| Development Team   | Text        |
-| 4 Pillars   | Text        |
+| Scrum Artifacts | Include Product Backlog, Sprint Backlog and Increment; these represent work or value and are designed to maximize transparency of key information.        |
+| Product Backlog   | An emergent, ordered list of what is needed to improve the product and is the single source of work undertaken by the Scrum team.       |
+| Sprint Backlog   | Composed of the sprint goal, the set of Product Backlog items selected for the sprint, as well as an actionable plan for delivering the Increment.       |
+| Increment (Sprint Goal)   | A concrete stepping stone toward the Product Goal where each increment is additive to all prior Increments and thoroughly verified, ensuing that all Increments work together.       |
+| Scrum Ceremony   | Sprint Planning, Daily Stand-up, Iteration review, retrospective,         |
+| Daily Standup   | A meeting with the purpose of inspecting progress towards the Sprint Goal and adapt the Sprint Backlog as necessary.        |
+| Sprint   | Fixed length events of one month or less to create consistency, a new sprint starts immediately after the conclusion of the previous Sprint.        |
+| Sprint Planning   | Initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.       |
+| Sprint Review   | Inspects the outcome of the Sprint and determines future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.      |
+| Sprint Retrospective   | The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.  The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.      |
+| Scrum Roles  | Scrum has three roles: product owner, scrum master and the development team members.        |
+| Scrum Master  | The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.       |
+| Product Owner   | The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.      |
+| Development Team   | Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.      |
 
 These terms and a more in-depth look into Agile can be found here: [Agile Glossary](https://scrumguides.org/scrum-guide.html)
 
@@ -32,18 +30,17 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Backlog   | Text        |
-| Definition of Audience   | Text        |
-| Definition Statement   | Text        |
-| Elevator Pitch   | Text        |
-| Jira   | Text        |
-| Mobile First Layout   | Text        |
-| Navigation   | Text        |
-| Responsive Web Design   | Text        |
-| SWOT Analysis   | Text        |
-| UserFlow   | Text        |
-| User Stories   | Text        |
-| Wire Frames   | Text        |
+| Definition of Audience   | Mentor & Peers, Recruiters & Career Coaches, Hiring Managers, Ultimately the consumer of your product        |
+| Definition Statement   | A declaration of the purpose of your project (I want to create a web application that...)        |
+| Elevator Pitch   | A high level story you want to tell with your project ("I want to create a web APPLICATION that allows users to ask questions via chat during a talk and add resources to videos.")      |
+| Jira   | Software the allows users to create Kanban boards|
+| Mobile First Layout   | Creating an application that is designed for mobile that is then adapted to be viewed on tablet and desktop devices.        |
+| Responsive Web Design   | Responsive design starts on the desktop; that is, at the maximum required resolution, and then scales down to the smallest screen. Per [Darwin Digital - Mobile vs Responsive](https://darwindigital.com/mobile-first-versus-responsive-web-design/), Responsive is preferred as more users are still on desktop or tablets, not phones.     |
+| Navigation   | How the user navigates through the various pages of the application       |
+| SWOT Analysis   | A SWOT anaylsis, is a method to evaluate the viability of a project by looking at the above four areas.        |
+| UserFlow   | [Sample User FLow](img/SWOTgrid.png)      |
+| User Stories   |  A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.        |
+| Wire Frames   | Wireframes are used to design (and define) the form and function of an application, usually a web application or smartphone app in our case.       |
 
 ### Essential Dev Tools
 
@@ -76,38 +73,40 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Term        | Definition  |
 | ----------- | ----------- |
 | Primitives   | Data types that can only hold one discrete piece of data.        |
-| String   | Text        |
-| Number   | Text        |
-| Boolean   | True or False     |
-| Undefined   | Text        |
-| Null   | Text        |
-| typeOf Operator   | Text        |
+| String   | Strings are characters contained inside single ( `''` ) or double ( `""` ) quotation marks.      |
+| Number   | Numbers are any numbers not contained in quotation marks. JS does not differentiate between integers (whole numbers) and floating point numbers (decimals).        |
+| Boolean   | Booleans can be one of only two values: `true` or `false`. Booleans are not wrapped in quotation marks.     |
+| Undefined   | Undefined should never be deliberately assigned. Undefined is used by JS to indicate the absence of any assigned value. All variables start with a value of `undefined` until they are assigned a value with the assignment operator ( `=` ).       |
+| Null   | null - If we want to indicate that a variable is "blank" on purpose, we explicitly assign the variable a value of `null`.       |
+| typeOf Operator   | You can check / get the type of data for any primitive by using the `typeof` operator       |
 
 ### Variables
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Variable   | Text        |
-| const vs let   | Text        |
-| Assignment Operator   | Text        |
-| Dynamic Typing   | Text        |
-| Template Literals   | Text        |
+| Variable   | The concept of 'instantiating a variable' ( `const`, `let` ) and 'assigning a value to a variable' ( `=` ) is to create 'references' to the values in memory.      |
+| const vs let   | A variable created with `const` cannot be reassigned with a new value. A variable created with `let` can be mutated (changed) and/or reassigned.        |
+| Assignment Operator   | The assignment operator ( `=` ) is used to link variables to the values they reference.       |
+| Dynamic Typing   | The data type of a variable does not have to be explicitly stored, meaning stored data of any type can be replaced with any other type of data.        |
+| Template Literals   | Wrapping a string with a pair of backticks( ` `` ` ) allows the use of variable and single and double quotations inside of the string.        |
 
 ### Operators and Flow Control
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Mathematical Operators    | Text        |
-| Data Coercion   | Text        |
-| Comparison Operators   | Text        |
-| Equality Operators   | Text        |
-| If... Else Statements   | Text        |
-| Truthy/Falsy    | Text        |
-| Ternary/Conditional Operator   | Text        |
-| Logical Operators   | Text        |
-| Loops   | Text        |
-| While Loop   | Text        |
-| For Loop   | Text        |
+| Mathematical Operators    | Operators used with numbers to do basic math (Addition (`+`), Subtraction( `-` ), Division( `/` ), Multiplication( `*` ), Exponent( `**` ), Modulo( `%` )).       |
+| Data Coercion   |  JS does its best to coerce data types into whatever it sees fit for a given situation. In the case of the operator ( `+` ), if there are any string operands it attempts to convert each operand into a string. JS wants to 'combine' strings before it tries to 'add' numbers.        |
+| Comparison Operators   | Operators used to compare two primitive values and return a boolean (Greater Than( `>` ), Less Than( `<` ), Greater Than or Equal To ( `>=` ), Less Than or Equal To ( `<=` )).       |
+| Equality Operators   | Compares expressions to see if they are equal to each other.      |
+| Strict Equality Operators   | Strict comparisons are only true if the expressions are of the same type and the contents match. (Strict Equality( `===` ) and Strict Inequality( `!==` ))         |
+| Fuzzy Equality Operators   | Abstract (or 'Fuzzy') comparisons converts the expressions to the same type before comparison. (Fuzzy Equality( `==` ) and Fuzzy Inequality( `!=` )).       |
+| If... Else Statements   | The if statement executes a statement if a specified condition is true. Else, if the condition is false, another statement can be executed.       |
+| Truthy/Falsy    | Non-boolean primitive types are coerced into being true or false. We describe this as values having 'truthiness' or 'falsiness' - or we say that a value is truthy or falsy. Almost all values in JS are coerced to truthy. There are only 6 non-boolean primitives that are falsy : `0`, `""` (any empty string), `false`, `undefined`, `null`, `NaN`       |
+| Ternary/Conditional Operator   | A one-line shortcut for simple `if` statements. For an example, click here: [Ternary/Conditional Operator](https://github.com/savvy-coders/sc-curriculum/blob/master/Section02/2.3-JSOperatorsAndFlowControl.md#the-ternary--conditional-operator)        |
+| Logical Operators   | Logical Operators evaluate two boolean values and return a single boolean. And( `&` ), Or( `||` ), Not( `!` )       |
+| Loops   | Code that executes repetitive 'task' until a condition is met that stops the loop.        |
+| While Loop   | The `while` loop will repeatedly check its conditional expression and continue to run its code block as long as it evaluates to true. For an example of a `while` loop, click here: [While Loop](https://github.com/savvy-coders/sc-curriculum/blob/master/Section02/2.3-JSOperatorsAndFlowControl.md#while-loop)        |
+| For Loop   | Much like the `while` loop, except that the syntax is a bit more compact and the iterator variable is inside the `for` loop itself. For an example of a `for` loop, click here: [For Loop](https://github.com/savvy-coders/sc-curriculum/blob/master/Section02/2.3-JSOperatorsAndFlowControl.md#for-loop)       |
 
 ### Functions
 
@@ -129,20 +128,19 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Primitive vs Complex   | Text        |
-| Arrays    | Text        |
-| Indexing   | Text        |
-| Length   | Text        |
-| for... of loops   | Text        |
-| Objects   | Text        |
-| Properties   | Text        |
-| Bracket Notation   | Text        |
-| Dot Notation   | Text        |
-| Methods   | Text        |
-| Global Window Object   | Text        |
-| Mutation   | Text        |
-| Reference vs Value   | Text        |
-| Passing Reference vs Value   | Text        |
+| Primitive vs Complex   | Primitive data types are meant to represent a single piece of discrete data. Complex or Composite data types represent collections of data. The Complex data types of JavaScript are Array and Object.        |
+| Arrays    | Arrays are another type of 'built-in' Object. Arrays and Object Literals share many similarities.        |
+| Indexing   | Arrays are also zero-indexed, which means that the first piece of data in the collection has a position of 0 (instead of 1).        |
+| Length   | One of the most useful properties of Arrays is `length`, which is the number of elements in that array.        |
+| for... of loops   | A loop that iterates over the elements of an array. For an example, click here: [`for...of` loops](https://github.com/savvy-coders/sc-curriculum/blob/master/Section03/3.2-DataCollections.md#forof-loops)       |
+| Objects   | Objects are collections of data just like Arrays, but we can access data by name/key instead of sequence. Keys are themselves arbitrary Strings that you're free to make up as you see fit.        |
+| Properties   | The key-value pairs inside of an object.        |
+| Bracket Notation vs Dot Notation   | How to access data inside Objects, to see an example of each, click here: [Accessing Properties](https://github.com/savvy-coders/sc-curriculum/blob/master/Section03/3.2-DataCollections.md#accessing-properties)       |
+| Methods   | When we scope a function inside of an object literal, we call this a method.       |
+| Global Window Object   | `window` is the global object within the browser. `window` is a part of the Browser Object Model (BOM). Within the BOM, `window` 'wraps up' all of the built-in JS functionality that we have access to within the browser.        |
+| Mutation   | A mutable is a type of variable that can be changed. In JavaScript, only Objects and Arrays are mutable. Immutables are objects whose state cannot be changed once the object is created. Primitive values are immutable - they cannot be changed.        |
+| Reference vs Value   | [Reference & Value](https://github.com/savvy-coders/sc-curriculum/blob/master/Section03/3.2-DataCollections.md#reference--value)     |
+| Passing Reference vs Value   | [Pass by Reference & Value](https://github.com/savvy-coders/sc-curriculum/blob/master/Section03/3.2-DataCollections.md#reference--value)       |
 
 ### String & Array Methods
 
@@ -179,28 +177,26 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Object-Oriented Programming (OOP)   | Text        |
-| Methods   | Text        |
-| this   | Text        |
-| function constructors   | Text        |
-| Object.prototype   | Text        |
-| Inheritance   | Text        |
-| Over-writting   | Text        |
-| class   | Text        |
-| extend   | Text        |
-| super()   | Text        |
-| constructor()   | Text        |
-| Additional Methods   | Text        |
+| Object-Oriented Programming (OOP)   | Organizing code structures around Objects rather than functions is called Object-Oriented Programming (OOP).        |
+| Methods   | If a `function` is attached to an Object, we refer to that `function` as a method.        |
+| this   | `this` refers to the calling context - or parent Object - of a function. For an example, click here [Methods and the this keyword in Javascript OOP](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.2-JavaScriptClasses.md#methods-and-the-this-keyword-in-javascript-oop)       |
+| function constructors   | A function Constructors is used as a kind of "template" for creating a category of things instead of, creating just a specific single instance of a thing (like with an Object literal).        |
+| Object.prototype   | [The Object.prototype](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.2-JavaScriptClasses.md#the-objectprototype)        |
+| Inheritance   | A Javascript Class can therefore be thought of as a parent. The children inherit information from the parent class. For more detail, click here: [Inheritance](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.2-JavaScriptClasses.md#inheritance)       |
+| Over-writting   | Because JS checks the Object itself for a property before checking the prototype, we can "overwrite" a prototype property / method for that particular instance by declaring it on the instance directly. For an example, click here: ["Overwriting" prototype Properties](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.2-JavaScriptClasses.md#overwriting-prototype-properties)        |
+| class   | A Class is the blueprint from which individual objects are created. A class is a template for creating objects. Inside the object that you create, code is written that allows you to work with the object data. This code is written inside curly brackets and is known as the body of the class. For an example, click here: [Creating Javascript Objects with the class keyword](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.2-JavaScriptClasses.md#creating-javascript-objects-with-the-class-keyword)      |
+| extend   | A major benefit of the class keyword is the ability to extend a class, adding to the prototype chain and allowing new classes to inherit behavior from classes they extend.        |
+| super() and constructor()   | To see the purpose of super() and constructor(), as well as examples, click here: [Creating Javascript Objects with the class keyword, bullet points](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.2-JavaScriptClasses.md#inheriting-behavior-with-the-extend-keyword)         |
 
 ### Unit Testing (Dev Note, not sure if this is exactly where we want to put this section)
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Functional Tests   | Text        |
-| Unit Testing   | Text        |
-| Jasmine   | Text        |
-| Arrange-Act-Assert   | Text        |
-| Why Unit Test?   | Text        |
+| Functional Tests   | There are several different kinds of tests, like unit tests, integration tests, or end-to-end tests, but all functional tests do the same basic thing: they try something and report PASS or FAIL.        |
+| Unit Testing   | Unit testing is a type of testing which is found at the bottom of the software testing pyramid. It involves breaking the codebase down into smaller parts (or units) and testing those in isolation.        |
+| Jasmine   | Jasmine is a very popular JavaScript behavior-driven development (BDD) framework for unit testing JavaScript applications. It provides utilities that can be used to run automated tests for both synchronous and asynchronous code.      |
+| Arrange-Act-Assert   | Arrange-Act-Assert is a great way to structure test cases. The "AAA - pattern" forces tests to focus on independent, individual behaviors.       |
+
 |    | Text        |
 
 ## HTML/CSS
