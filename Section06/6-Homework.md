@@ -40,7 +40,8 @@
 
 2. ### **CSS GRID Homework**
 
-- Go to [codepip.com](https://codepip.com/games/grid-garden/) and setup an account -- use the free plan! ![Signup for the FREE Plan](img/Register_Codepip.png)
+- Go to [codepip.com](https://codepip.com/games/grid-garden/) and setup an account -- use the free plan!
+![Signup for the FREE Plan](img/Register_Codepip.png)
 - After verifying your account goto the [GRID Garden Game](https://codepip.com/games/grid-garden/)
 - Watch the tutorial Video, and then start the game.
 - Complete at least half (14), if not all the activities.
