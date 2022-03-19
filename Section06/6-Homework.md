@@ -49,4 +49,5 @@
 - Complete at least half (14), if not all the activities.
 - Send a screenshot of your progress to your TA when you are finished.
 - Example screenshot:
+
 ![example GRID Garden screenshot](img/GridGarden-AgameforlearningCSSgrid.png)
