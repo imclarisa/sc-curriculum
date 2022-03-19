@@ -27,7 +27,7 @@
 
 <br>
 
-1.  ### SPA Homework
+1. ### **SPA Homework**
 
 - In your capstone repo create the folder structure for an SPA -- `components`, `views`, and `state`.
 - Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
@@ -38,7 +38,7 @@
 
 ![Stateless File Structure](img/StatelessFileStructure.png)
 
-2.  ### CSS GRID Homework
+2. ### **CSS GRID Homework**
 
 - Go to [codepip.com](https://codepip.com/games/grid-garden/) and setup an account -- use the free plan! ![Signup for the FREE Plan](img/Register_Codepip.png)
 - After verifying your account goto the [GRID Garden Game](https://codepip.com/games/grid-garden/)
