@@ -76,12 +76,12 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Term        | Definition  |
 | ----------- | ----------- |
 | Primitives   | Data types that can only hold one discrete piece of data.        |
-| String   | Text        |
-| Number   | Text        |
-| Boolean   | Text        |
-| Undefined   | Text        |
-| Null   | Text        |
-| typeOf Operator   | Text        |
+| String   | Strings are useful for holding data that can be represented in text form. Some of the most-used operations on strings are to check their length, to build and concatenate them using the + and += string operators, checking for the existence or location of substrings with the indexOf() method, or extracting substrings with the substring() method. |
+| Number   | The JavaScript Number type is a double-precision 64-bit binary format value (like double in Java or C#). This means it can represent fractional values, but there are some limits to what it can store. A Number only keeps about 17 decimal places of precision; arithmetic is subject to rounding. The largest value a Number can hold is about 1.8E308. Values higher than that are replaced with the special Number constant Infinity. |
+| Boolean   | A Boolean expression is a logical statement that is either TRUE or FALSE . Boolean expressions can compare data of any type as long as both parts of the expression have the same basic data type. You can test data to see if it is equal to, greater than, or less than other data. |
+| Undefined   | In computing, undefined value is a condition where an expression has not been assigned a value, although it is syntactically correct. An undefined value must not be confused with empty string, Boolean "false" or other "empty" values. |
+| Null   | The value null represents the intentional absence of any object value. It is one of JavaScript's primitive values and is treated as falsy for boolean operations. |
+| typeOf Operator   | In JavaScript, the typeof operator returns the data type of its operand in the form of a string. The operand can be any object, function, or variable. |
 
 ### Variables
 
@@ -350,6 +350,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | NoSQL   | Text        |
 | NoSQL Database Types   | Text        |
 | MongoDB   | Text        |
+| Mongoose   | Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.        |
 | Cross-Origin Resouce Sharing (Cors)   | Text        |
 | Heroku   | Text        |
 | Frontend (SPA)   | Text        |
