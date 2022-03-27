@@ -212,50 +212,48 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Complex CSS selectors   | As our documents grow, we'll need to leverage more complex CSS selection syntax. To review, click here: [Complex CSS selectors](../../Section03/3.3-HTMLAndCSSBasics.md#complex-css-selectors)        |
 | Pseudo-class and Pseudo-elements   | There are some selectors that can be used to make some very basic calculations about the state of your markup, and add styles accordingly. To review: click here: [Pseudo-class and Pseudo-elements](../../Section03/3.3-HTMLAndCSSBasics.md#pseudo-classes-and-pseudo-elements)        |
 
-
-### Intermediate HTML & CSS (Dev note, this will include 5.1 and 5.3)
+### Intermediate HTML & CSS
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| `<form>` and `<input>` tags   | Text        |
-| action and method   | Text        |
-| attributes: for and name   | Text        |
-| Media Query   | Text        |
-| Media Types   | Text        |
-| Media Features   | Text        |
-| Element Positioning   | Text        |
-| Static   | Text        |
-| Relative vs Absolute   | Text        |
-| Flexbox   | Text        |
-| CSS Units   | Text        |
-| Keywords vs Hexadecimal vs rgb   | Text        |
-| CSS Variables   | Text        |
-| Fonts   | Text        |
-| Jumbotron/Hero   | Text        |
+| `<form>` and `<input>` tags   | A `<form>` tag and one or more `<input>` tags are the bare minimum required for an HTML form.    |
+| action and method   | In the HTML `<form>` tag, the action attribute specifies where on the server to send the data submitted from the form. The `<method>` attribute takes one of three values: `get`, `post`, or `dialog`.       |
+| attributes: for and name   | For definition, context and examples, click here: [The `<label>` & `<input>` attributes: `for` & `name`](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.1-IntermediateHTMLAndCSS.md#the-label--input-attributes--for--name)       |
+| Media Query   | A media query is composed of an optional media type and any number of media feature expressions. The media query "wraps up" some CSS rules that will only apply to the page if the media type and features evaluate to `true`.       |
+| Media Types   | The different Media types (`all`, `print`, `screen`, `speech`) describe the general category of a given device. By default the media type is `all`, so specifying a media type is optional.       |
+| Media Features   | Media features describe the specific characteristics of a given user agent, output device, or environment.       |
+| Element Positioning   | CSS has a built-in `position` property that can be used to alter the position of your HTML elements. For more about `position` properties, click here: [FYI: CSS Element Positioning](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.1-IntermediateHTMLAndCSS.md#fyi-css-element-positioning)       |
+| Flexbox   | Flexbox was designed as a one-dimensional layout model, and as a method that aligns and spaces items on a webpage. For examples of Flexbox and more on the Flex Container, click here: [Flexbox and Grid](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.1-IntermediateHTMLAndCSS.md#flexbox-and-grid)        |
+| CSS Units   | Units such as `px`, `em`, `rem` - For more information, click here: [CSS Units](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#css-units)        |
+| Keywords vs Hexadecimal vs rgb   | The three most common ways to specify color in CSS. For more detail, click here: [Colors & CSS](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#colors--css)        |
+| CSS Variables   | Developer (that's you!) created properties that allow the developer to reduce the chance for errors from mistyping or editing when dealing with color schemes. To read more, click here: [CSS Variables](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#css-variables)        |
+| Stylesheet `normalize.css`   | To read more, click here: [Stylesheet `normalize.css`](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#stylsheet-normalizecss)        |
+| Fonts   | To view in curriculum, click here: [Fonts](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#google-fonts)       |
+| Collapsible Nav Bar --Hamburger-- element  | To read more about the functionality of the responsive icon that "sandwiches" our navigation links on smaller screens, click here: [Collapsible Nav Bar](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#collapsible-nav-bar---hamburger---element)        |
+| Jumbotron/Hero   | For information about the Jumbotron/Hero section displayed on the Class SPA, click here: (Jumbotron/Hero)[https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#jumbotronhero--border-radius]     |
 
 ## SPAs (dev note, need to discuss how we want to hit definitions or if we just want this to be a reference to examples) Section 6
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Single-Page Application (SPA)    | Text        |
-| Search Engine Optimization (SEO)   | Text        |
-| Frameworks   | Text        |
-| SPA File Structure   | Text        |
-| components/lib/store   | Text        |
-| index.js in an SPA   | Text        |
-| MVC Pattern   | Text        |
-| Model   | Text        |
-| View   | Text        |
-| Update   | Text        |
-| Modules   | Text        |
-| export statements   | Text        |
-| import statements   | Text        |
-| aggregating exports   | Text        |
-| Data Model   | Text        |
-| State   | Text        |
-| MVU Architecture   | Text        |
-| Routing and Navigo   | Text        |
-| State Driven SPA File Structure   | Text        |
+| Single-Page Application (SPA)    | A SPA (Single-Page Application) is a web development implementation that allows users to use websites without requesting and loading new pages from a server. For more, click here: [What are Single-Page Applications](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.1-SPAIntro.md#what-are-single-page-applications)        |
+| Search Engine Optimization (SEO)   | Search Engine Optimization (SEO) is one potential disadvantage of SPAs. Some SEO Web Crawlers cannot execute JavaScript and therefore cannot access the HTML inside SPAs functional components.       |
+| SPA File Structure   | For a visual and more in depth explanation, including the purpose of each folder and its contents, click here: [SPA File Structure](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.1-SPAIntro.md#essential-file-structure-of-an-spa)       |
+| Index Files   | [The Importance of Having index files](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.1-SPAIntro.md#the-importance-of-having-index-files)       |
+| MVC Pattern   | For details on the Model View Controller pattern, click here [MVC Pattern - from MDN](https://developer.mozilla.org/en-US/docs/Glossary/MVC)       |
+| MVU Architecture   | Based on the MVC pattern with the main difference being that MVU architecture maintains unidirectional (one-way) data flow.        |
+| Model   | Model (state) - the current state of the application's data.       |
+| View   | View (components/views) - the functional components that hold the HTML for displaying the site.        |
+| Update   | Update (event listeners) - event listeners that handle user input and use it to alter the state/model.      |
+| Modules   | Modules split JavaScript programs into separate "pieces"/modules that can be imported when needed.       |
+| export statements   | For more detail, click here: [JS export statements](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.2-SPAComponents.md#js-export-statements)       |
+| aggregating exports   | For definition and examples, click here: [Aggregating Exports](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.2-SPAComponents.md#aggregating-exports)      |
+| import statements   | For more detail, click here: [JS import Statements](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.2-SPAComponents.md#js-import-statements)        |
+| Aliasing   | Both import and export statements support aliasing or renaming the features as you import or export them. For an example, click here: [Aliasing](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.2-SPAComponents.md#aliasing)       |
+| Data Model   | A data model emphasizes what data is needed and how it should be organized.        |
+| State   | The data model for the current state of the application's data.      |
+| Routing and Navigo   | For more detail, click here: [Routing and Navigo](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.3-SPAState.md#routing-and-navigo)        |
+| State Driven SPA File Structure   | To view, click here: (https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.3-SPAState.md#for-a-step-by-step-model-to-help-you-create-your-spa-refer-to-this-document-in-the-curriculum)        |
 
 ## Backend Development
 
