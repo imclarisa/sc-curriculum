@@ -230,7 +230,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Stylesheet `normalize.css`   | To read more, click here: [Stylesheet `normalize.css`](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#stylsheet-normalizecss)        |
 | Fonts   | To view in curriculum, click here: [Fonts](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#google-fonts)       |
 | Collapsible Nav Bar --Hamburger-- element  | To read more about the functionality of the responsive icon that "sandwiches" our navigation links on smaller screens, click here: [Collapsible Nav Bar](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#collapsible-nav-bar---hamburger---element)        |
-| Jumbotron/Hero   | For information about the Jumbotron/Hero section displayed on the Class SPA, click here: (Jumbotron/Hero)[https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#jumbotronhero--border-radius]     |
+| Jumbotron/Hero   | For information about the Jumbotron/Hero section displayed on the Class SPA, click here: [Jumbotron/Hero](https://github.com/savvy-coders/sc-curriculum/blob/master/Section05/5.3-CapstoneWork.md#jumbotronhero--border-radius)     |
 
 ## SPAs (dev note, need to discuss how we want to hit definitions or if we just want this to be a reference to examples) Section 6
 
@@ -253,7 +253,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Data Model   | A data model emphasizes what data is needed and how it should be organized.        |
 | State   | The data model for the current state of the application's data.      |
 | Routing and Navigo   | For more detail, click here: [Routing and Navigo](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.3-SPAState.md#routing-and-navigo)        |
-| State Driven SPA File Structure   | To view, click here: (https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.3-SPAState.md#for-a-step-by-step-model-to-help-you-create-your-spa-refer-to-this-document-in-the-curriculum)        |
+| State Driven SPA File Structure   | To view, click here: [State SPA File Structure](https://github.com/savvy-coders/sc-curriculum/blob/master/Section06/6.3-SPAState.md#for-a-step-by-step-model-to-help-you-create-your-spa-refer-to-this-document-in-the-curriculum)        |
 
 ## Backend Development
 
@@ -282,7 +282,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | REPL   | For more information, click here: [REPL](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#repl)        |
 | Global Object   | For more detail, click here: [Global Object](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#global-object)        |
 | Modules: CommonJS vs ES6   | For more detail, click here: [CommonJS vs ES6](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#modules-commonjs-vs-es6)   |
-| Built-in Modules    | Node.js contains a number of built-in modules that you can require and use in your code. There are different modules that you can bring in depending on what goal you're trying to accomplish. For more, click here: (https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#built-in-modules)       |
+| Built-in Modules    | Node.js contains a number of built-in modules that you can require and use in your code. There are different modules that you can bring in depending on what goal you're trying to accomplish. For more, click here: [Built-in Modules](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#built-in-modules)       |
 | HTTP and RESTful APIs in more depth  | [Click here](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#http-and-restful-apis-in-more-depth)        |
 | HTTP Servers   | For more details, click here: [HTTP Servers](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#http-servers)        |
 | Postman/Insomnia   | Text        |
@@ -310,6 +310,14 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Heroku   | A platform for deploying git-based long-running processes. Heroku has the benefit of a MongoDB plugin that will make it easier to use the document database we build for our Pizza posts.        |
 | Serverless Architecture   | A software design pattern where applications are hosted by a third-party service -- like Netlify-- eliminating the need for server software and hardware management by the developer. Also known as serverless computing or function as a service, FaaS.        |
 
+### Unit Testing
+
+| Functional Tests   | A test is a procedure that exercises a behavior to determine if the behavior functions correctly. All functional tests do the same basic thing: they try something and report PASS or FAIL.        |
+| Unit Testing   | Unit testing is a type of testing which is found at the bottom of the software testing pyramid. It involves breaking the codebase down into smaller parts (or units) and testing those in isolation.        |
+| Jasmine   | Jasmine is a very popular JavaScript behavior-driven development (BDD) framework for unit testing JavaScript applications. It provides utilities that can be used to run automated tests for both synchronous and asynchronous code.        |
+| Arrange-Act-Assert   | For an example, click here: [Arrange-Act-Assert](https://github.com/savvy-coders/sc-curriculum/blob/master/Section10/10.3-Unit-Testing.md#arrange-act-assert-a-pattern-for-writing-good-tests)       |
+| Why does Unit Testing Matter?   | Testing provides an empirical feedback loop for development. That’s how testing keeps us safe. With tests, we know when things break. Without tests, coding can be dangerous. For more reason, click here: [Reasons Why Unit Testing Matters](https://github.com/savvy-coders/sc-curriculum/blob/master/Section10/10.3-Unit-Testing.md)      |
+
 ## Job Preparation Tools
 
 ### Interview Prep
@@ -317,18 +325,9 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Term        | Definition  |
 | ----------- | ----------- |
 | Whiteboarding   | [Whiteboarding example](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.3-Whiteboarding.md)        |
-| Relationships and Networks   | Text        |
-| Courage and Candor   | Text        |
-| Agility   | Text        |
-| Initiative and Foresight   | Text        |
-| Results Orientation   | Text        |
-| STAR Method   | Text        |
-| Situation   | Text        |
-| Task   | Text        |
-| Action   | Text        |
-| Result   | Text        |
-| Functional Tests   | Text        |
-| Unit Testing   | Text        |
-| Jasmine   | Text        |
-| Arrange-Act-Assert   | Text        |
-| Why does Unit Testing Matter?   | Text        |
+| Relationships and Networks   | Within our clients, you’ll regularly engage with teams and networks across geographic, political, demographic, functional and other cultural and organizational boundaries.        |
+| Courage and Candor   | While facing some of the world’s toughest challenges head on and being able to respectfully disagree and present alternative solutions.        |
+| Agility   | In the dynamic industry we operate within, flexibility and the ability to adapt to new situations creates more opportunities along the way for our customers and your career.       |
+| Initiative and Foresight   | Recognizing the opportunities ahead of you and acting on them can mean the difference between the next great breakthrough and a missed opportunity.        |
+| Results Orientation   | Delivering results is integral to both your career success and our success as a company. We look for people that want to contribute from day one and turn strategies and commitments into realities.        |
+| STAR Method   | The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of the situation you are describing. This follows the following flow: Situation, Task, Action and Result. For more detail on each, read the following section: [STAR Method Interview Prep & Sample Questions](https://github.com/savvy-coders/sc-curriculum/blob/master/Section10/10.1.3-STARmethod.md#star-method-interview-prep--sample-questions)        |
