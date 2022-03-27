@@ -167,11 +167,6 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Events & Event Handling   | Nodes can also have event handlers attached to them. Once an event is triggered, the event handlers get executed.        |
 | Common Events   | `click` and `dblclick`, `mousedown` and `mouseup`, `mouseover` and `mouseout`, `focus` and `blur`, `keydown` and `keyup` and `keypress`       |
 | Event Listeners   | "Handlers", to review syntax and see and example of `.addEventListener()`, click here: [Event Listeners](../../Section04/4.1-DocumentObjectModel.md#addingremoving-event-listeners)        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
 
 ### Object-Oriented Programming (OOP)
 
@@ -216,8 +211,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Basic CSS Selectors   | `*`, `elementName`, `.className`, `#idName`. To review syntax, click here: [General CSS Syntax](../../Section03/3.3-HTMLAndCSSBasics.md#general-css-syntax)        |
 | Complex CSS selectors   | As our documents grow, we'll need to leverage more complex CSS selection syntax. To review, click here: [Complex CSS selectors](../../Section03/3.3-HTMLAndCSSBasics.md#complex-css-selectors)        |
 | Pseudo-class and Pseudo-elements   | There are some selectors that can be used to make some very basic calculations about the state of your markup, and add styles accordingly. To review: click here: [Pseudo-class and Pseudo-elements](../../Section03/3.3-HTMLAndCSSBasics.md#pseudo-classes-and-pseudo-elements)        |
-|    | Text        |
-|    | Text        |
+
 
 ### Intermediate HTML & CSS (Dev note, this will include 5.1 and 5.3)
 
@@ -262,9 +256,6 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | MVU Architecture   | Text        |
 | Routing and Navigo   | Text        |
 | State Driven SPA File Structure   | Text        |
-|    | Text        |
-|    | Text        |
-|    | Text        |
 
 ## Backend Development
 
