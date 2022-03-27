@@ -29,10 +29,10 @@
 
 1. ### **SPA Homework**
 
-- In your capstone repo create the folder structure for an SPA -- `components`, `views`, and `state`.
+- In your capstone repo create the folder structure for an SPA -- `components`, `views`, and `store`.
 - Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
-- Add a file for each page in your capstone in `views` and `state`
-- Remember to build your aggregators (`index.js`) in `components`, `views`, and `state`
+- Add a file for each page in your capstone in `views` and `store`
+- Remember to build your aggregators (`index.js`) in `components`, `views`, and `store`
 
 - Below is an example of what the file structure could possibly look like (Ignore anything that was not covered in class. This is **_only an example_** so don't freak out or loose your feable little minds!):
 
