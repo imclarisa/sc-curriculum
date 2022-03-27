@@ -261,85 +261,54 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Asynchronous Functions   | Text        |
-| AJAX   | Text        |
-| APIs   | Text        |
-| ReSTful API   | Text        |
-| Authorization   | Text        |
-| fetch API   | Text        |
-| Axios   | Text        |
-| Promise   | Text        |
-| Query Params   | Text        |
-| dotenv/ .env   | Text        |
-| .gitignore   | Text        |
-| Order of root index.js file   | Text        |
+| Asynchronous Functions   | For detailed explanation, click here: [Asynchronous Functions](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#asynchronous-functions-and-apis----working-with-time)        |
+| AJAX web development techniques   | Asynchronous JavaScript And XML (AJAX) is how most JS applications interact with data: pulling information that can be handled by JavaScript from an Application Programming Interface (API).        |
+| APIs   | For a detailed explanation, click here: [Introduction to web APIs - from MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)       |
+| ReSTful JSON API   | The most common type of API you'll interact with as a web developer is a ReSTful (Responsive State Transfer) JSON API. This kind of API leverages the HTTP verbs that we've seen before in our work with forms (e.g. `GET`, `POST`, etc.), but uses a JavaScript-compatible data format instead of URL-encoded data.       |
+| fetch API   | For more details, click here: [JS fetch API](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#javascript-fetch-api)       |
+| Axios   | A third-party library that works like fetch except it works in and out of the browser, has more sensible defaults, and is just a bit more convenient for complex requests.       |
+| Promise   | A Promise is created with the new keyword, and is given a callback function that is passed two parameters: a resolve function and a reject function, which handle the two possible outcomes of a Promise. For more, click here: [JS Promises](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#javascript-promises)       |
+| Query Params   | For more detail, click here: [Query Params](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#query-params)      |
+| Securing environment variables with `dotenv`   | For a detailed explanation, click here: [dotenv](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#securing-environmental-variables-with-dotenv)        |
+| Order of root index.js file   | Guide for the order of root index.js can be found here: [Order Guide - index.js root](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#order-matters-in-the-root-indexjs-file-heres-a-guide)       |
 
-### Section 8
+### Section 8 and Section 9 - In Depth Backend
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Application Tier  | Text        |
-| Data Tier  | Text        |
-| Backend Development| Text        |
-| Built-in Modules    | Text        |
-| runtime   | Text        |
-| REPL   | Text        |
-| Global Object   | Text        |
-| Node (CommonJS)   | Text        |
-| Browsers (ES6 modules)   | Text        |
-| fs/path/crypto/http   | Text        |
-| curl   | Text        |
-| httpie   | Text        |
+| Application Architecture  | 3 Tier Application Architecture that is made up of 3 portions: presentation, application and data. For a visual representation and more explanation, click here: [3 Tier Application Architecture](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#3-tier-application-architecture)      |
+| Backend Development| Backend refers to the server side of the website; it is the portion of software that does not come in direct contact with the users. It stores and arranges data, and also makes sure everything on the client-side of the website works fine.        |
+| Node.js   | In context of this cohort: [Node.js](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#nodejs). Broader context: [Node.js - from MDN](https://developer.mozilla.org/en-US/docs/Glossary/Node.js)       |
+| REPL   | For more information, click here: [REPL](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#repl)        |
+| Global Object   | For more detail, click here: [Global Object](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#global-object)        |
+| Modules: CommonJS vs ES6   | For more detail, click here: [CommonJS vs ES6](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#modules-commonjs-vs-es6)   |
+| Built-in Modules    | Node.js contains a number of built-in modules that you can require and use in your code. There are different modules that you can bring in depending on what goal you're trying to accomplish. For more, click here: (https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#built-in-modules)       |
+| HTTP and RESTful APIs in more depth  | [Click here](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#http-and-restful-apis-in-more-depth)        |
+| HTTP Servers   | For more details, click here: [HTTP Servers](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#http-servers)        |
 | Postman/Insomnia   | Text        |
-| nodemon   | Text        |
-| "Safe" Methods   | Text        |
-| "Idempotent" Methods   | Text        |
-| HTTP Methods   | Text        |
-| Get   | Text        |
-| Post   | Text        |
-| Put   | Text        |
-| Patch   | Text        |
-| Delete   | Text        |
-| API Servers (REST)  | Text        |
-| Client-Server Separation   | Text        |
-| Statelessness   | Text        |
-| Cacheable Resources   | Text        |
-| Uniform Interface   | Text        |
-| Layered Architecture   | Text        |
-| express server   | Text        |
-| request.params   | Text        |
-| response methods   | Text        |
-| Middleware   | Text        |
-| Logging   | Text        |
-| PORT   | Text        |
-
-### Section 9
-
-| Term        | Definition  |
-| ----------- | ----------- |
-| Abstractions   | Text        |
-| one-to-one relationship   | Text        |
-| one-to-many relationship   | Text        |
-| many-to-many relationship   | Text        |
-| model   | Text        |
-| controller   | Text        |
-| controller   | Text        |
-| schema   | Text        |
-| CRUD Operations   | Text        |
-| Database   | Text        |
-| Structure Query Language (SQL)   | Text        |
-| record/row   | Text        |
-| column   | Text        |
-| Relational Database Management System (RDBMS)   | Text        |
-| relational databases   | Text        |
-| NoSQL   | Text        |
-| NoSQL Database Types   | Text        |
-| MongoDB   | Text        |
-| Cross-Origin Resouce Sharing (Cors)   | Text        |
-| Heroku   | Text        |
-| Frontend (SPA)   | Text        |
-| Backend (Server)   | Text        |
-| Serverless Architecture   | Text        |
+| nodemon   | [Click here](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#monitor-and-restart-your-server-with-nodemon)       |
+| HTTP Methods - Safe vs Idempotent   | For details about the differences between "Safe" and "Idempotent" Methods, click here: [HTTP Methods](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#http-methods)       |
+| HTTP Methods - GET, POST, PUT, PATCH, DELETE  | For details about these methods, click here: [HTTP Methods](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#http-methods) These are just the methods you'll encounter most, for an exhaustive list of HTTP methods, click this link to MDN here: [HTTP methods - from MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)       |
+| API Servers (REST)  | For more detail, click here: [API Servers (REST)](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#api-servers-rest)        |
+| REST Principles  | Client-Server Separation, Statelessness, Cacheable Resources, Uniform Interface, Layered Architecture. For more detail, click here: [REST Principles](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.1-BackendDevelopment.md#rest-principles)        |
+| Express server   | A toolkit for writing HTTP ReSTful APis. For details on how we build an express server, click here: [Building an Express Server](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.2-HTTP-Server-using-Express.md#building-an-express-server)        |
+| `route()` method   | For details on routing with the `route()` method, click here:[Routing with the route() method](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.2-HTTP-Server-using-Express.md#routing-with-the-route-method)         |
+| `request.params`   | For details on adding `request.params`, click here: [Adding request.params](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.2-HTTP-Server-using-Express.md#adding-requestparams)        |
+| response methods   | For more details and context, click here: [response Methods](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.2-HTTP-Server-using-Express.md#response-methods)        |
+| Middleware   | `express` is built around the idea of middleware. Middleware are functions that have access to the request and response Objects of their respective scopes.       |
+| PORT   | For a computer connected to a network with an IP address, a port is a communication endpoint. Ports are designated by numbers, and below 1024 each port is associated by default with a specific protocol.       |
+| Database   | A database is a storing system that collects organized data, to make some works easier like searching, structure, and extend. In web development, most databases use the relational database management system (RDBMS) to organize data and programming in SQL. Some databases, however, don't follow the former mechanism to organized data, which called NoSQL.        |
+| Structure Query Language (SQL)   | SQL (Structured Query Language) is a descriptive computer language designed for updating, retrieving, and calculating data in table-based databases.       |
+| Relational Database Management System (RDBMS)   | For more detail, click here: [RDBMS](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.3-MongoDB-Config-and-Setup.md#sql--relational-database-management-systems)       |
+| NoSQL   | A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.      |
+| NoSQL Database Types   | Document, Graph, Key-value stores, Wide-column stores. For more detail, click here: [NoSQL Database Types](https://github.com/savvy-coders/sc-curriculum/blob/master/Section08/8.3-MongoDB-Config-and-Setup.md#nosql-database-types)        |
+| CRUD | Create, Read, Update, Delete |
+| MongoDB   | MongoDB is one of the most popular Document Store databases in the industry. Typically coming in just behind the top relational databases such Oracle, MySQL and Microsoft SQL Server.        |
+| Defining a Schema and Model   | For more detail, click here: [Defining a Schema and Model](https://github.com/savvy-coders/sc-curriculum/blob/master/Section09/9.1-CRUD-Operations-Using-Express-Routes.md#defining-a-schema-and-model)     |
+| Cross-Origin Resouce Sharing (Cors)   | Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any other origins (domain, scheme, or port) than its own, from which a browser should permit loading of resources.        |
+| The Front End | We used Netlify to deploy the public version of our single-page-app (frontend), but Netlify is built to serve primarily static content (like HTML, CSS, and JavaScript files) in what's called a "serverless" environment *. Serverless environments do not support the kind of long-running services that we've just written; as you might expect, it's difficult to deploy a "server" to a platform that is explicitly "serverless".|
+| Heroku   | A platform for deploying git-based long-running processes. Heroku has the benefit of a MongoDB plugin that will make it easier to use the document database we build for our Pizza posts.        |
+| Serverless Architecture   | A software design pattern where applications are hosted by a third-party service -- like Netlify-- eliminating the need for server software and hardware management by the developer. Also known as serverless computing or function as a service, FaaS.        |
 
 ## Job Preparation Tools
 
@@ -347,7 +316,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Whiteboarding   | Text        |
+| Whiteboarding   | [Whiteboarding example](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.3-Whiteboarding.md)        |
 | Relationships and Networks   | Text        |
 | Courage and Candor   | Text        |
 | Agility   | Text        |
