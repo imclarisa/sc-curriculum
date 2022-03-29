@@ -112,6 +112,7 @@
 
 - [10 Fun API's to Inspire Your Next Project](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224)
 - [A massive collection of Free public APIs](https://github.com/public-apis/public-apis#public-apis--)
+- [Fake Store API](https://fakestoreapi.com/)
 - Social Media API's
   - [Twitter](https://dev.twitter.com/docs/api)
   - [Facebook ](http://developers.facebook.com/docs/reference/api/)
