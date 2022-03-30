@@ -1,17 +1,21 @@
 # Savvy Coders Curriculum
 
-## [Savvy Coders Syllabus](Section00/0-Syllabus.md)
+## - [Prework Next Steps](Section00/0-PreWork-Next-Steps)
 
-## [Addendum of Resources](AddendumOfResources/AddendumOfResources.md)
+## - [Orientation Agenda](Section00/0-Orientation-Agenda.md)
+
+## - [Savvy Coders Syllabus](Section00/0-Syllabus.md)
+
+## - [Addendum of Resources](AddendumOfResources/AddendumOfResources.md)
 
 <br>
 
 ## Section 0: **Setting-up Your Development Environment**
 
 - [0.1 - Local Development Environment](Section00/0.1-Local-dev-environment.md)
-- [0.1.1 - For Mac/Linux Users](Section00/0.1.1-ForMacUsers.md)
-- [0.1.2 - For Windows Users](Section00/0.1.2-ForWindowsUsers.md)
-- [Section 0 - PreCourse Work](Section00/0-PreHomework.md)
+- [0.1.1 - For OS-Specific Instructions](Section00/0.1.1-OS-Specific-Instructions.md)
+- [0.1.2 - Setting up a Replit Environment](Section00/0.1.2-ReplitEnvironment.md)
+- [0 - PreCourse Work (Complete after dev environment is set up!)](Section00/0-PreHomework.md)
 
 ## Section 1: **Project Planning and Career Materials**
 
@@ -24,9 +28,8 @@
 ## Section 2: **Introduction to Development**
 
 - [2.1 Essential Development Tools](Section02/2.1-EssentialDevTools.md)
-- [2.2.1 Intro to JavaScript](Section02/2.2.1-IntroToJavaScript.md)
-- [2.2.2 JS Data Types And Variables](Section02/2.2.2-DataTypesAndVariables.md)
-- [2.3 JS Operators And Flow Control](Section02/2.3-JSOperatorsAndFlowControl.md)
+- [2.2.1 Intro to JavaScript - Data Types and Variables](Section02/2.2-JSdataTypeAndVariables.md)
+- [2.2.2 JS Operators and Flow Control](Section02/2.3-JSOperatorsAndFlowControl.md)
 - [Section 2 - Homework](Section02/2-Homework.md)
 
 ## Section 3: **Frontend Development I**
@@ -34,7 +37,6 @@
 - [3.1 Functions](Section03/3.1-Functions.md)
 - [3.2 Arrays And Objects](Section03/3.2-DataCollections.md)
 - [3.3 HTML And CSS 1](Section03/3.3-HTMLAndCSSBasics.md)
-- [3.4 HTML And CSS Addendum And Review](Section03/3.4-CSSAddendum-UnitsAndVariables.md)
 - [Section 3 - Homework](Section03/3-Homework.md)
 
 ## Section 4: **Frontend Development II**
@@ -84,9 +86,10 @@
 ## Section 10: **Interview Preparations**
 
 - 10.1 Hosting
-- [10.2.1 Interview Prep](Section10/10.2.1-InterviewPrep.md)
-- [10.2.2 51 Questions](Section10/10.2.2-51Questions.md)
-- [10.2.3 STAR Method](Section10/10.2.3-STARmethod.md)
+- [10.1.1 Interview Prep](Section10/10.1.1-InterviewPrep.md)
+- [10.1.2 51 Questions](Section10/10.1.2-51Questions.md)
+- [10.1.3 STAR Method](Section10/10.1.3-STARmethod.md)
+- [10.2 Whiteboarding](Section10/10.2-Whiteboarding.md)
 - [10.3 Unit Testing](Section10/10.3-Unit-Testing.md)
 - 10.4 Review
 
@@ -94,7 +97,7 @@
 
 - 11.1 Capstone Work
 - 11.2 Capstone Work
-- [11.3 Whiteboarding](Section11/11.3-Whiteboarding.md)
+- 11.3 Capstone Work
 - 11.4 Mock Interviews
 
 ## Section 12: **Demo Day Preparations**

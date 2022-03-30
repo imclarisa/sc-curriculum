@@ -21,7 +21,7 @@ Please go to each of the links below and complete each of the courses. They will
 2. Three courses in [Code Academy](https://www.codecademy.com/catalog). It's a way to get you exposed as well as make sure you are serious and want to follow through with this program. **DO NOT ACCEPT THE FREE TRIAL of “Pro” FOR CODE ACADEMY**.
 Please start with the JavaScript!!!!
 
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript0)
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [Make a Website](https://www.codecademy.com/learn/make-a-website)
@@ -50,7 +50,7 @@ Please start with the JavaScript!!!!
 
    (Another option is to post on Instagram about the meetup and either tag #savvycoders or tag our actual name @savvy_coders )
 
-   You can find a list of "tech” Meetups at [MeetUp.com](https://www.meetup.com/find/events/tech/?allMeetups=false&radius=50&userFreeform=Saint+Louis,+MO&mcId=z63117&mcName=Saint+Louis,+MO&eventFilter=mysugg)
+   You can find a list of "tech” Meetups at [MeetUp.com](https://www.meetup.com/find/?keywords=coding&source=EVENTS&location=us--mo--Saint%20Louis&distance=fiftyMiles)
    Several have gone virtual, there are a lot out there, please do your best.
 
    **The class work under points 1 - 4 are first and foremost priority.**
