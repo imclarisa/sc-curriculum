@@ -112,6 +112,7 @@
 
 - [10 Fun API's to Inspire Your Next Project](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224)
 - [A massive collection of Free public APIs](https://github.com/public-apis/public-apis#public-apis--)
+- [Fake Store API](https://fakestoreapi.com/)
 - Social Media API's
   - [Twitter](https://dev.twitter.com/docs/api)
   - [Facebook ](http://developers.facebook.com/docs/reference/api/)
@@ -246,6 +247,8 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Developer career roadmaps](https://roadmap.sh/)
 - [Tiny helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers...
 - [Full Calendar](https://fullcalendar.io) - FullCalendar's vanilla JavaScript API is blazing fast
+  - [Example SPA](https://github.com/matsinet/full-calendar-spa-example)
+- [Leaflet](https://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 
 <br>
 
