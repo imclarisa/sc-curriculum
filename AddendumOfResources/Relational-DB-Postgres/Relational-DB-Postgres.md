@@ -377,7 +377,7 @@ Let's walk through deploying our API to Heroku so that we can share our blog pos
 4. Heroku looks for a `start` script in your `package.json` to decide how to run your `express` server. So in your `package.json`, add the following to your `scripts`:
 
    ```bash
-   "start": "node ./server/index.js"
+   "start": "node ./server/app.js"
    ```
 
 5. Once you stage and commit those changes, you should be able to watch the deployment process happen from the Overview dashboard before clicking the Open App button to see your API in action.
