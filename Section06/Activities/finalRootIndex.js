@@ -8,12 +8,12 @@ function render() {
     ${Footer()}
   `;
 
-  addEventListeners();
+  afterRender();
 }
 
 render();
 
-function addEventListeners() {
+function afterRender() {
   // add menu toggle to bars icon in nav bar
   document
     .querySelector(".fa-bars")

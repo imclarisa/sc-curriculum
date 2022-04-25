@@ -112,6 +112,7 @@
 
 - [10 Fun API's to Inspire Your Next Project](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224)
 - [A massive collection of Free public APIs](https://github.com/public-apis/public-apis#public-apis--)
+- [Fake Store API](https://fakestoreapi.com/)
 - Social Media API's
   - [Twitter](https://dev.twitter.com/docs/api)
   - [Facebook ](http://developers.facebook.com/docs/reference/api/)
@@ -175,7 +176,13 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 ## Computer and Data Science basics
 
-- [How do computers and the internet work?]()
+- [Introducing How Computers Work (video)](https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work)
+- [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [A list of some TCP and UDP port numbers used by protocols for operation of network applications](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+- [Epoch Time converter](https://www.epochconverter.com/)
+- [Steps to solving a coding problem](https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74)
+- [How to Think like a Programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
 ---
 
@@ -232,6 +239,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 ## Frontend development resources
 
+- [The Document Object Model - What is it?](https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/)
 - [How to Manipulate the DOM](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/) - Get to feel comfortable with DOM manipulations
 - [Kevin Powell's YouTube Frontend Channel.](https://youtube.com/kepowob) Helping you learn how to make the web, and make it look good while you're at it
 - [Open Web Components](https://open-wc.org/) - For those who want to up their **Web Component** game without going to a full framework like React or Vue.
@@ -239,6 +247,8 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Developer career roadmaps](https://roadmap.sh/)
 - [Tiny helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers...
 - [Full Calendar](https://fullcalendar.io) - FullCalendar's vanilla JavaScript API is blazing fast
+  - [Example SPA](https://github.com/matsinet/full-calendar-spa-example)
+- [Leaflet](https://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
 
 <br>
 
@@ -293,6 +303,7 @@ CodePen.io is a social development environment for front-end designers and devel
 
 ## HTML resources
 
+- [How the FORM element works](https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/)
 - [Form Validation: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 - [HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
 - [HTML Div Table Generator](https://divtable.com/generator/) - Generate HTML Div table grids for websites in just a few easy steps.
@@ -306,6 +317,7 @@ CodePen.io is a social development environment for front-end designers and devel
 ## JavaScript resources
 
 - [The 9 most common mistakes developers make in JavaScript](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/) - and how to fix them (Article - freecodecamp.com)
+- [Lexical Scope in JavaScript](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
 - [Javascript ES6 (fat) Arrow Function Syntax](JavaScriptResources/JSfatArrowFunctions.md)
 - [JavaScript Higher Order Functions & Arrays](https://youtu.be/rRgD1yVwIvE) (YouTube video)
 - [Try/Catch in JavaScript](https://www.freecodecamp.org/news/try-catch-in-javascript/) – How to handle errors in JS (Article - freecodecamp.com)
