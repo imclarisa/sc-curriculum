@@ -55,7 +55,7 @@ Navigate to the components folder and select the Main.js file. Paste all of the 
 
 In the place of the deleted code on the index.html file, enter code so it looks like:
 
-![RootIndexJS](img/RootIndexJS.png)
+![RootIndexJS](img/RootIndexHTML.png)
 
 <br>
 
