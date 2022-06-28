@@ -18,27 +18,13 @@ Please go to each of the links below and complete each of the courses. They will
 
 <br>
 
-2. Three courses in [Code Academy](https://www.codecademy.com/catalog). It's a way to get you exposed as well as make sure you are serious and want to follow through with this program. **DO NOT ACCEPT THE FREE TRIAL of “Pro” FOR CODE ACADEMY**.
-Please start with the JavaScript!!!!
+2. Get you exposed to HTML, CSS and JavaScript.  This will also make sure you are serious and want to follow through with this program.
 
-- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
-- [Learn CSS](https://www.codecademy.com/learn/learn-css)
-- [Make a Website](https://www.codecademy.com/learn/make-a-website)
+- [Sololearn Web Development Fundementals](https://www.sololearn.com/learning/1141)
 
 <br>
 
-3. Please go to [FreeCodeCamp](https://www.freecodecamp.org/) for the JavaScript prerequisite:
-   https://www.freecodecamp.org/learn/
-
-   Go to the JavaScript Algorithms, then do both:
-
-   - Basic JavaScript
-   - ES6
-
-<br>
-
-4. Three resources to help you understand GitBash commands
+3. Three resources to help you understand Git Bash commands
 
 - [YouTube video that reviews commands](https://www.youtube.com/watch?v=oQc-2gsjgDg)
 - [Article with Basic commands](https://www.freecodecamp.org/news/understanding-git-basics-commands-tips-tricks/)
@@ -46,15 +32,10 @@ Please start with the JavaScript!!!!
 
 <br>
 
-5. You are required to attend 2 "tech" meetups by the time of our final interview and send a message with information about the ones you attended to your recruiter at SavvyCoders.
-
-   (Another option is to post on Instagram about the meetup and either tag #savvycoders or tag our actual name @savvy_coders )
-
-   You can find a list of "tech” Meetups at [MeetUp.com](https://www.meetup.com/find/?keywords=coding&source=EVENTS&location=us--mo--Saint%20Louis&distance=fiftyMiles)
-   Several have gone virtual, there are a lot out there, please do your best.
-
-   **The class work under points 1 - 4 are first and foremost priority.**
+4. You will need to pass a typing test; at 40wpm, we will do this at one of our interviews. Here is the typing test we use so you can practice if you need to. The link to the test we use is at https://www.typingtest.com/
 
 <br>
 
-6. You will need to pass a typing test; at 40wpm, we will do this at one of our interviews. Here is the typing test we use so you can practice if you need to. The link to the test we use is at https://www.typingtest.com/
+5. Complete the Post Pre-work Quiz
+
+- [Post Pre-work Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc-ntJrCtdipm21454cRF_bFpefyJOGPWFxv1-3Z3FNf-vkEQ/viewform?usp=sf_link)
