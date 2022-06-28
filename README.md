@@ -1,6 +1,6 @@
 # Savvy Coders Curriculum
 
-## - [Prework Next Steps](Section00/0-PreWork-Next-Steps)
+## - [Prework Next Steps](Section00/0-PreWork-Next-Steps.md)
 
 ## - [Orientation Agenda](Section00/0-Orientation-Agenda.md)
 
