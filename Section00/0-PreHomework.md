@@ -33,3 +33,9 @@ Please go to each of the links below and complete each of the courses. They will
 <br>
 
 4. You will need to pass a typing test; at 40wpm, we will do this at one of our interviews. Here is the typing test we use so you can practice if you need to. The link to the test we use is at https://www.typingtest.com/
+
+<br>
+
+5. Complete the Post Pre-work Quiz
+
+- [Post Pre-work Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc-ntJrCtdipm21454cRF_bFpefyJOGPWFxv1-3Z3FNf-vkEQ/viewform?usp=sf_link)
