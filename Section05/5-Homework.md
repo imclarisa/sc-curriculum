@@ -115,27 +115,6 @@ Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts) at
 
 <br>
 
----
-
-## _Bonus Challenge_
-
-Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) at [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) :
-
-- create an object that summarizes the incomplete tasks of users 3, 7, & 8
-  - ex:
-  ```javascript
-  {
-    user3: {
-      totalTasks: x,
-      totalIncomplete: y,
-      incompleteTasks: [title1, title2, title3, ...]
-    },
-    user7: ...
-  }
-  ```
-
-<br>
-
 <b>An example of the output you want is:</b>
 
 ```javascript
@@ -178,3 +157,24 @@ Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) a
       'nam quidem est ducimus sunt debitis saepe'
   },
 ]
+```
+
+---
+
+## _Bonus Challenge_
+
+Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) at [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) :
+
+- create an object that summarizes the incomplete tasks of users 3, 7, & 8
+  - ex:
+
+  ```javascript
+  {
+    user3: {
+      totalTasks: x,
+      totalIncomplete: y,
+      incompleteTasks: [title1, title2, title3, ...]
+    },
+    user7: ...
+  }
+  ```
