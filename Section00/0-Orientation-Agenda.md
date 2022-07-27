@@ -130,8 +130,4 @@ and not understanding, ask questions in your Agile Team for additional
 help.<br><br>
 ### OVER COMMUNICATE
 Contact (chain of escalation)
--  Technical and curriculum related, your TA
--  Steph Grimshaw & Laurie Wilson for everything else
--  Justin Treadwell
-      -  TA’s
--  A TA has been assigned (Assignments will be posted in your class channel)
+A full description of communications expectations, and communications 'chain of escalation' steps, can be found in section [0.1.3-StudentGuidelinesAndEscalationProcess.md](./0.1.3-StudentGuidelinesAndEscalationProcess.md) of the curriculum.
