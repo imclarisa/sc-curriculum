@@ -1,6 +1,7 @@
 # Orientation Agenda
 
 ## General Orientation Agenda
+
 -  WORK TOGETHER!!!!
 -  Green = Mac Users
 -  Web Dev Environment
@@ -15,7 +16,11 @@
 -  Web Dev
 
 ## Orientation Details
-### INTRODUCTIONS <br>
+
+<br>
+
+### INTRODUCTIONS
+
 -  Introduction: Elaine Queathem
 -  Introduction: Stephanie Grimshaw
 -  Introduction: Laurie Wilson
@@ -23,7 +28,11 @@
 -  Introduction: Nathaniel Hudson
 -  Introduction: TA’s / Instructors if present
 -  Student Introductions <br><br>
+
+<br>
+
 ### SLACK
+
 -  Picture
 -  Name Correct
 -  This is our main form of communication!!!!!!!!
@@ -40,23 +49,32 @@
    -  #resources
       -  Recordings posted from previous night to review as needed
    -  #fs January 2022
-   -  Each day/evening zoom link (recurring meeting / use same link every
-night) will post in class channel and pin.
-Join Zoom Meeting - same link every night for class
+   -  Each day/evening zoom link (recurring meeting / use same link every night) will post in class channel and pin.
+   -  Join Zoom Meeting - same link every night for class
 https://us02web.zoom.us/j/87066711249?pwd=akZldm84OFVMZXdZMDZzMHJMdktwdz09
-Meeting ID: 870 6671 1249
-Passcode: 557110
-<br><br>
+Meeting ID: 870 6671 1249 Passcode: 557110
+
+<br>
+
 -  DO NOT BE LATE / Must log in at least 5 mins before class starts
 -  Cameras ON
 -  Muted unless speaking
 -  An extra Monitor would help
 -  Distraction Free area to attend class
-<br><br>
-### ZOOM
+
 <br>
-Overview of zoom and zoom functions<br><br>
-REVIEW CODE OF CONDUCT:<br>
+
+### ZOOM
+
+<br>
+
+Overview of zoom and zoom functions
+
+<br>
+
+REVIEW CODE OF CONDUCT:
+
+<br>
 
 - You are expected to conduct yourself in a professional and respectful manner with your
 fellow classmates and instructors while engaging in all classroom activities and
@@ -87,16 +105,19 @@ CURRICULUM
       -  https://github.com/savvy-coders/sc-curriculum
 -  Show students how to properly access curriculum
 
-<br><br>
+<br>
 
 ### HOMEWORK
 
 - Weekly (DUE ON MONDAYS BEFORE CLASS)<br>
 - Assignments will be assigned most weeks-SEE CURRICULUM<br>
 - Take the weekend to complete these
-TURN IN homework to your assigned TA each Monday before class<br><br>
+TURN IN homework to your assigned TA each Monday before class
+
+<br>
 
 ### ATTENDANCE
+
 -  MANDATORY
 Orientation Agenda
 -  IF you are indisposed, you need to message via SLACK Steph Grimshaw
@@ -123,11 +144,11 @@ IXFjj0GdvYpHM_xgHNFitvBDYA/viewform?usp=sf_link
    -  identify your resources
    -  communicate with each other in your Agile teams
    -  Attend study hall sessions on Sundays
-   -  Go back and review the section you do not understand in the curriculum,
-review the recording from the night you are not understanding, reach out
-to your TA with detailed questions on what you are having trouble with
-and not understanding, ask questions in your Agile Team for additional
-help.<br><br>
+   -  Go back and review the section you do not understand in the curriculum,review the recording from the night you are not understanding, reach out to your TA with detailed questions on what you are having trouble with and not understanding, ask questions in your Agile Team for additional help.
+
+<br>
+
 ### OVER COMMUNICATE
+
 Contact (chain of escalation)
 A full description of communications expectations, and communications 'chain of escalation' steps, can be found in section [0.1.3-StudentGuidelinesAndEscalationProcess.md](./0.1.3-StudentGuidelinesAndEscalationProcess.md) of the curriculum.
