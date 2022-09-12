@@ -16,6 +16,8 @@ Please go to each of the links below and complete each of the courses. They will
 - The 12 Principles of Agile https://agilemanifesto.org/principles.html
 - Read about the ["Roots of Agile - Before it was Agile"](https://www.researchgate.net/publication/39996418_Historical_Roots_of_Agile_Methods_Where_Did_Agile_Thinking_Come_From)
 
+*Recommended Reading: [The 2020 Scrum Guide](https://scrumguides.org/scrum-guide.html)*
+
 <br>
 
 2. Get you exposed to HTML, CSS and JavaScript.  This will also make sure you are serious and want to follow through with this program.
