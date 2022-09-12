@@ -8,13 +8,14 @@ Please go to each of the links below and complete each of the courses. They will
 
 1. Gain understanding of the basics of the "Agile" philosophy by looking through the following materials.
 
-   Read these 4 articles and complete the following quiz we will be discussing the 1st week of class.
+   Read these 3 articles, watch 2 videos and complete the following quiz we will be discussing the 1st week of class.
    [Click the quiz Link](https://docs.google.com/forms/d/e/1FAIpQLSfRms_ircpDWPADaI7XlEjwihHQMzUOBy7HxeR6PJGItjAW3Q/viewform?usp=sf_link)
 
-- History of Agile http://agilemanifesto.org/history.html
-- Values of Agile http://agilemanifesto.org/
-- The 12 Principles of Agile https://agilemanifesto.org/principles.html
-- Read about the ["Roots of Agile - Before it was Agile"](https://www.researchgate.net/publication/39996418_Historical_Roots_of_Agile_Methods_Where_Did_Agile_Thinking_Come_From)
+- History of Agile [http://agilemanifesto.org/history.html](http://agilemanifesto.org/history.html)
+- The 4 Values of Agile [http://agilemanifesto.org/](http://agilemanifesto.org/)
+- The 12 Principles of Agile [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
+- The History of Agile and Lean by HPT Agile [https://youtu.be/WKIy8nssMQc](https://youtu.be/WKIy8nssMQc)
+- What is Agile” by Ahmed Sidkey [https://www.youtube.com/watch?v=uj0mm3zEfx4](https://www.youtube.com/watch?v=uj0mm3zEfx4)
 
 *Recommended Reading: [The 2020 Scrum Guide](https://scrumguides.org/scrum-guide.html)*
 
