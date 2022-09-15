@@ -25,34 +25,33 @@
 ## Homework is due to your TA by next Monday before class
 <br>
 
-### _Note:_ **THERE ARE 4 SECTIONS PLUS BONUS THIS WEEK**
+### _Note:_ **THERE ARE 3 SECTIONS PLUS BONUS THIS WEEK**
 <br>
 
 ---
 
-### JS Classes & Constructors Practice
-
-**Section 1 of 4**
-
-*This task is unrelated to the JS methods practice at the bottom of this page!*
-
-In a new .js file, create a few classes. Create one "general category" class, then two more specific classes which extend from the first class.
-
-For example: Perhaps you are creating a web store that sells video games and game consoles.
-
-- You could create a general `Item` class to hold properties that any and every item for sale shares in common, like `id`, `name`, or `price`.
-- Then, extend `Item` with a class for `GameConsoles` and a class for `VideoGames` and include properties specific to each _category_ of item.
-
 <br>
 
----
-<br>
+### Homework Set-up
+
+1. Add a "Week5-Homework" _folder_ to your homework repo
+2. Inside the folder, create two additonal folders:
+    - "Andre-The-Giant"
+    - "Array-Methods"
+3. Inside the "Andre-The-Giant" _folder_, create `index.html` and `styles.css` files
+4. Inside the "Array-Methods-Practice" _folder_, create `User.js`, `Todo.js` and `Post.js` files
+
+An example of the file structure you should have for this assignment is
+
+![Week5HWFileStructure](img/Week5HWFileStructure.png)
 
 ### CSS Media Queries Practice
 
-**Section 2 of 4**
+**Section 1 of 3**
 
-Included in week 5 homework is the `index.html` file from a site about Andre the Giant.
+In the Section 5 Activities Folder, there is a folder called [5-Homework](https://github.com/savvy-coders/sc-curriculum/tree/master/Section05/Activities/5-Homework) that contains two files: `index.html` and `styles.css`.
+
+The `index.html` file is a site about Andre the Giant while the `styles.css` file contains pre-existing styling for the site. Copy the contents of the files linked above into their respective files you created for the "Andre-The-Giant" _folder_ and the do the following:  
 
 In the `styles.css` file, fix the styling for the site, and create a media query that fixes the site to correctly display on the "iPhone 6/7/8" view in DevTools.
 
@@ -73,7 +72,7 @@ Focus on the following:
 ### Flexbox Froggy
 <br>
 
-**Section 3 of 4**
+**Section 2 of 3**
 
 Go to [flexboxfroggy.com](https://flexboxfroggy.com/) and complete at least half (12), if not all the activities.
 
@@ -91,24 +90,29 @@ Example screenshot:
 
 <br>
 
-**Section 4 of 4**
+**Section 3 of 3**
 
+In your Week 5 Homework folder, create the following files:
 
-Using the [placeholder User data](https://jsonplaceholder.typicode.com/users) at [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) :
+- User.js
+- Todo.js
+- Post.js
+
+In the User.js file, use the [placeholder User data](https://jsonplaceholder.typicode.com/users) at [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) to:
 
 - create and print a list of phone numbers
 - create and print a list of website and email pairs (pair them in a string, array, or object)
 
 <br>
 
-Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) at [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) :
+In the Todo.js file, use the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos) at [https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos) to:
 
 - create a list of user 9's to-dos
 - then find the number of user 9's incomplete tasks
 
 <br>
 
-Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts) at [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts) :
+In the Post.js file, use the [placeholder Post data](https://jsonplaceholder.typicode.com/posts) at [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts) to:
 
 - create a list of user 5's posts
 - then, create a list of title and body pairs
