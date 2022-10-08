@@ -121,6 +121,7 @@
 - [The Ultimate list of fun APIs](https://learn.vonage.com/blog/2021/03/15/the-ultimate-list-of-fun-apis-for-your-next-coding-project/)
 - [Fun API List](https://apilist.fun/)
 - [Most Popular Open APIs](https://rapidapi.com/blog/most-popular-api/#openapi-12)
+- [Charity Navigator API portal!](https://charity.3scale.net/)
 
 <br>
 
