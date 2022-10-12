@@ -150,7 +150,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Array Properties   | Helps to use collections of data more effectively, such as `.length`.        |
 | Array Methods   | Helps to use collections of data more effectively, such as `.push()`.        |
 | Examples of Basic Array Methods  | To see examples and review syntax of Array Methods like `.push()`, click here: [Basic Array Methods](/Section04/4.2-ArrayMethods1.md#adding-an-item-with-push-and-unshift)        |
-| Examples of Complex Array Methods   | To see examples and review syntax of Array Methods like `.forEach()` and `.map()`, click here: [Complex Array Methods](/Section04/4.3-ArrayMethods2.md#more-array-methods)        |
+| Examples of Complex Array Methods   | To see examples and review syntax of Array Methods like `.forEach()` and `.map()`, click here: [Complex Array Methods](/Section05/5.2-AdvancedArrayMethods.md#more-array-methods)        |
 
 ### JS and the DOM(Document Object Model)
 
@@ -174,14 +174,14 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | ----------- | ----------- |
 | Object-Oriented Programming (OOP)   | Organizing code structures around Objects rather than functions is called Object-Oriented Programming (OOP).        |
 | Methods   | If a `function` is attached to an Object, we refer to that `function` as a method.        |
-| this   | `this` refers to the calling context - or parent Object - of a function. For an example, click here [Methods and the this keyword in Javascript OOP](/Section05/5.2-JavaScriptClasses.md#methods-and-the-this-keyword-in-javascript-oop)       |
+| this   | `this` refers to the calling context - or parent Object - of a function. For an example, click here [Methods and the this keyword in Javascript OOP](/Section05/5.4-ObjectOrientedProgrammingAndClasses.md#methods-and-the-this-keyword-in-javascript-oop)       |
 | function constructors   | A function Constructors is used as a kind of "template" for creating a category of things instead of, creating just a specific single instance of a thing (like with an Object literal).        |
-| Object.prototype   | [The Object.prototype](/Section05/5.2-JavaScriptClasses.md#the-objectprototype)        |
-| Inheritance   | A Javascript Class can therefore be thought of as a parent. The children inherit information from the parent class. For more detail, click here: [Inheritance](/Section05/5.2-JavaScriptClasses.md#inheritance)       |
-| Over-writting   | Because JS checks the Object itself for a property before checking the prototype, we can "overwrite" a prototype property / method for that particular instance by declaring it on the instance directly. For an example, click here: ["Overwriting" prototype Properties](/Section05/5.2-JavaScriptClasses.md#overwriting-prototype-properties)        |
-| class   | A Class is the blueprint from which individual objects are created. A class is a template for creating objects. Inside the object that you create, code is written that allows you to work with the object data. This code is written inside curly brackets and is known as the body of the class. For an example, click here: [Creating Javascript Objects with the class keyword](/Section05/5.2-JavaScriptClasses.md#creating-javascript-objects-with-the-class-keyword)      |
+| Object.prototype   | [The Object.prototype](/Section05/5.4-ObjectOrientedProgrammingAndClasses.md#the-objectprototype)        |
+| Inheritance   | A Javascript Class can therefore be thought of as a parent. The children inherit information from the parent class. For more detail, click here: [Inheritance](/Section05/5.4-ObjectOrientedProgrammingAndClasses.md#inheritance)       |
+| Over-writting   | Because JS checks the Object itself for a property before checking the prototype, we can "overwrite" a prototype property / method for that particular instance by declaring it on the instance directly. For an example, click here: ["Overwriting" prototype Properties](/Section05/5.4-ObjectOrientedProgrammingAndClasses.md#overwriting-prototype-properties)        |
+| class   | A Class is the blueprint from which individual objects are created. A class is a template for creating objects. Inside the object that you create, code is written that allows you to work with the object data. This code is written inside curly brackets and is known as the body of the class. For an example, click here: [Creating Javascript Objects with the class keyword](/Section05/5.4-ObjectOrientedProgrammingAndClasses.md#creating-javascript-objects-with-the-class-keyword)      |
 | extend   | A major benefit of the class keyword is the ability to extend a class, adding to the prototype chain and allowing new classes to inherit behavior from classes they extend.        |
-| super() and constructor()   | To see the purpose of super() and constructor(), as well as examples, click here: [Creating Javascript Objects with the class keyword, bullet points](/Section05/5.2-JavaScriptClasses.md#inheriting-behavior-with-the-extend-keyword)         |
+| super() and constructor()   | To see the purpose of super() and constructor(), as well as examples, click here: [Creating Javascript Objects with the class keyword, bullet points](/Section05/5.4-ObjectOrientedProgrammingAndClasses.md#inheriting-behavior-with-the-extend-keyword)         |
 
 ### Unit Testing (Dev Note, not sure if this is exactly where we want to put this section)
 
