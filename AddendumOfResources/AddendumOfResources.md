@@ -121,6 +121,7 @@
 - [The Ultimate list of fun APIs](https://learn.vonage.com/blog/2021/03/15/the-ultimate-list-of-fun-apis-for-your-next-coding-project/)
 - [Fun API List](https://apilist.fun/)
 - [Most Popular Open APIs](https://rapidapi.com/blog/most-popular-api/#openapi-12)
+- [Charity Navigator API portal!](https://charity.3scale.net/)
 
 <br>
 
@@ -194,6 +195,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 - [CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project](https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/)
 - [CSS Selectors - How to Use CSS Selectors to Style Your Web Page](https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/)
+- [CSS Selectors – Cheat Sheet for Class, Name, Child Selector List](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/)
 - [Use CSS Media Queries to Create Responsive Websites](https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/)
 
 <br>
