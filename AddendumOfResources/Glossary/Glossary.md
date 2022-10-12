@@ -38,7 +38,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Responsive Web Design   | Responsive design starts on the desktop; that is, at the maximum required resolution, and then scales down to the smallest screen. Per [Darwin Digital - Mobile vs Responsive](https://darwindigital.com/mobile-first-versus-responsive-web-design/), Responsive is preferred as more users are still on desktop or tablets, not phones.     |
 | Navigation   | How the user navigates through the various pages of the application       |
 | SWOT Analysis   | A SWOT anaylsis, is a method to evaluate the viability of a project by looking at the above four areas.        |
-| UserFlow   | [Sample User FLow](img/SWOTgrid.png)      |
+| UserFlow   | [Sample User FLow](../../Section01/img/SWOTgrid.png)      |
 | User Stories   |  A user story is an informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will provide value to the customer.        |
 | Wire Frames   | Wireframes are used to design (and define) the form and function of an application, usually a web application or smartphone app in our case.       |
 
