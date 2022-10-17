@@ -261,16 +261,16 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 
 | Term        | Definition  |
 | ----------- | ----------- |
-| Asynchronous Functions   | For detailed explanation, click here: [Asynchronous Functions](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#asynchronous-functions-and-apis----working-with-time)        |
+| Asynchronous Functions   | For detailed explanation, click here: [Asynchronous Functions](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.1-APIsAxiosAndState.md#asynchronous-functions-and-apis----working-with-time)        |
 | AJAX web development techniques   | Asynchronous JavaScript And XML (AJAX) is how most JS applications interact with data: pulling information that can be handled by JavaScript from an Application Programming Interface (API).        |
 | APIs   | For a detailed explanation, click here: [Introduction to web APIs - from MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)       |
 | ReSTful JSON API   | The most common type of API you'll interact with as a web developer is a ReSTful (Responsive State Transfer) JSON API. This kind of API leverages the HTTP verbs that we've seen before in our work with forms (e.g. `GET`, `POST`, etc.), but uses a JavaScript-compatible data format instead of URL-encoded data.       |
-| fetch API   | For more details, click here: [JS fetch API](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#javascript-fetch-api)       |
+| fetch API   | For more details, click here: [JS fetch API](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.1-APIsAxiosAndState.md#javascript-fetch-api)       |
 | Axios   | A third-party library that works like fetch except it works in and out of the browser, has more sensible defaults, and is just a bit more convenient for complex requests.       |
-| Promise   | A Promise is created with the new keyword, and is given a callback function that is passed two parameters: a resolve function and a reject function, which handle the two possible outcomes of a Promise. For more, click here: [JS Promises](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#javascript-promises)       |
-| Query Params   | For more detail, click here: [Query Params](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#query-params)      |
-| Securing environment variables with `dotenv`   | For a detailed explanation, click here: [dotenv](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#securing-environmental-variables-with-dotenv)        |
-| Order of root index.js file   | Guide for the order of root index.js can be found here: [Order Guide - index.js root](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.2-APIsAndAxios1.md#order-matters-in-the-root-indexjs-file-heres-a-guide)       |
+| Promise   | A Promise is created with the new keyword, and is given a callback function that is passed two parameters: a resolve function and a reject function, which handle the two possible outcomes of a Promise. For more, click here: [JS Promises](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.1-APIsAxiosAndState.md#javascript-promises)       |
+| Query Params   | For more detail, click here: [Query Params](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.1-APIsAxiosAndState.md#query-params)      |
+| Securing environment variables with `dotenv`   | For a detailed explanation, click here: [dotenv](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.1-APIsAxiosAndState.md#securing-environmental-variables-with-dotenv)        |
+| Order of root index.js file   | Guide for the order of root index.js can be found here: [Order Guide - index.js root](https://github.com/savvy-coders/sc-curriculum/blob/master/Section07/7.1-APIsAxiosAndState.md#order-matters-in-the-root-indexjs-file-heres-a-guide)       |
 
 ### Section 8 and Section 9 - In Depth Backend
 
