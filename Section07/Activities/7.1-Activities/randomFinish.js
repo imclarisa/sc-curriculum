@@ -1,3 +1,5 @@
+// !Post this into your console
+
 function randomFinish(label) {
   const randomTime = Math.random() * 10000;
 
