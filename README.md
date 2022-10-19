@@ -42,16 +42,16 @@
 ## Section 4: **Frontend Development II**
 
 - [4.1 Document Object Model](Section04/4.1-DocumentObjectModel.md)
-- [4.2 Array Methods 1](Section04/4.2-ArrayMethods1.md)
-- [4.3 Array Methods 2](Section04/4.3-ArrayMethods2.md)
-- [4.4 Debugging](Section04/4.4-DebuggingWithVSCode.md)
+- [4.2 Array Methods](Section04/4.2-ArrayMethods1.md)
+- [4.3 Debugging](Section04/4.3-DebuggingWithVSCode.md)
 - [Section 4 - Homework](Section04/4-Homework.md)
 
 ## Section 5: **Frontend Development III**
 
 - [5.1 HTML And CSS 2](Section05/5.1-IntermediateHTMLAndCSS.md)
-- [5.2 Classes](Section05/5.2-JavaScriptClasses.md)
+- [5.2-AdvancedArrayMethods](Section05/5.2-AdvancedArrayMethods.md)
 - [5.3 Capstone Work](Section05/5.3-CapstoneWork.md)
+- [5.4-ObjectOrientedProgrammingAndClasses](Section05/5.4-ObjectOrientedProgrammingAndClasses.md)
 - [Section 5 - Homework](Section05/5-Homework.md)
 
 ## Section 6: **Single-Page Applications I**
@@ -63,8 +63,8 @@
 
 ## Section 7: **Single-Page Applications II**
 
-- [7.1 SPA Deploying to Netlify](Section07/7.1-DeployingToNetlify.md)
-- [7.2 APIs And Axios](Section07/7.2-APIsAndAxios1.md)
+- [7.1 SPA Deploying to Netlify](Section07/7.2-EnvironmentVariablesAndDeployingToNetlify.md)
+- [7.2 APIs And Axios](Section07/7.1-APIsAxiosAndState.md)
 - [7.3 Intro to Whiteboarding](Section07/7.3-Whiteboarding.md)
 - [Section 7 - Homework](Section07/7-Homework.md)
 
