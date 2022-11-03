@@ -63,8 +63,8 @@
 
 ## Section 7: **Single-Page Applications II**
 
-- [7.1 SPA Deploying to Netlify](Section07/7.2-EnvironmentVariablesAndDeployingToNetlify.md)
-- [7.2 APIs And Axios](Section07/7.1-APIsAxiosAndState.md)
+- [7.1 SPA Deploying to Netlify](Section07/7.1-EnvironmentVariablesAndDeployingToNetlify.md)
+- [7.2 APIs And Axios](Section07/7.2-APIsAxiosAndState.md)
 - [7.3 Intro to Whiteboarding](Section07/7.3-Whiteboarding.md)
 - [Section 7 - Homework](Section07/7-Homework.md)
 
