@@ -151,4 +151,4 @@ IXFjj0GdvYpHM_xgHNFitvBDYA/viewform?usp=sf_link
 ### OVER COMMUNICATE
 
 Contact (chain of escalation)
-A full description of communications expectations, and communications 'chain of escalation' steps, can be found in section [0.1.3-StudentGuidelinesAndEscalationProcess.md](./0.1.3-StudentGuidelinesAndEscalationProcess.md) of the curriculum.
+A full description of communications expectations, and communications 'chain of escalation' steps, can be found in section [0.1.2](./0.1.2-StudentGuidelinesAndEscalationProcess.md) of the curriculum.
