@@ -98,7 +98,7 @@ Backend development: Node.js, Building servers with Node, Express, MongoDB datab
   <li>Log a sensical, well-organized ‘commit’ history.</li>
   <li>Use an external API to send/receive data and update Single Page Application views accordingly.</li>
   <li>Incorporate a back end – Node.JS / Express.JS/ MongoDB</li>
-  <li>Deploy the frontend SPA to Netlify, backend API to Heroku, and database to MongoDB Atlas.</li>
+  <li>Deploy the frontend SPA to Netlify, backend API to Render.com, and database to MongoDB Atlas.</li>
   <li>The user flow of the project should NOT include an authentication process. This means there should not be user registration or a login screen.</li>
   <li>Satisfactory completion of all assigned HW and in-class ‘practice project’ repo.</li>
 </ul>
