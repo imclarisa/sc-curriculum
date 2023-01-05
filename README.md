@@ -2,7 +2,9 @@
 
 ## - [Prework Next Steps](Section00/0-PreWork-Next-Steps.md)
 
-## - [Orientation Agenda](Section00/0-Orientation-Agenda.md)
+## - [Orientation Agenda](https://docs.google.com/document/d/1GA7EDASQ9G41Q4caWP0CE1Xzr0BHpKKhH4CrBEH-AHA/edit?usp=sharing)
+
+## - [Syllabus](https://docs.google.com/document/d/1Nn_5CZKYpnQbBUJ3frHhy4xDO9-vgS0qrIC6nAAqEXY/edit?usp=sharing)
 
 ## - [Savvy Coders Syllabus](Section00/0-Syllabus.md)
 
@@ -13,8 +15,8 @@
 ## Section 0: **Setting-up Your Development Environment**
 
 - [0.1 - Local Development Environment](Section00/0.1-Local-dev-environment.md)
-- [0.1.1 - For OS-Specific Instructions](Section00/0.1.1-OS-Specific-Instructions.md)
-- [0.1.2 - Setting up a Replit Environment](Section00/0.1.2-ReplitEnvironment.md)
+- [0.1.1 - GitHub SSH Key Instructions](Section00/0.1.1-GitHub_SSH_Key.md)
+- [0.1.2 - Student Guidelines and Escalation Process](Section00/0.1.2-StudentGuidelinesAndEscalationProcess.md)
 - [0 - PreCourse Work (Complete after dev environment is set up!)](Section00/0-PreHomework.md)
 
 ## Section 1: **Project Planning and Career Materials**
@@ -63,8 +65,8 @@
 
 ## Section 7: **Single-Page Applications II**
 
-- [7.1 SPA Deploying to Netlify](Section07/7.2-EnvironmentVariablesAndDeployingToNetlify.md)
-- [7.2 APIs And Axios](Section07/7.1-APIsAxiosAndState.md)
+- [7.1 APIs, Axios & State](Section07/7.1-APIsAxiosAndState.md)
+- [7.2 Environment Variables & SPA Deploy to Netlify](Section07/7.2-EnvironmentVariablesAndDeployingToNetlify.md)
 - [7.3 Intro to Whiteboarding](Section07/7.3-Whiteboarding.md)
 - [Section 7 - Homework](Section07/7-Homework.md)
 

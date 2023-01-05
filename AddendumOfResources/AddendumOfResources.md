@@ -274,6 +274,12 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 
 ## Handy Coding Tools
 
+### **[`stackblitz.com`](https://stackblitz.com/)**
+
+Stay in the flow with instant dev experiences. No more hours stashing/pulling/installing locally — just click, and start coding.
+
+<br>
+
 ### **[`repl.it`](https://repl.it/)**
 
 Code, create, and learn together by using the free, collaborative, in-browser Repl.it IDE to code in 50+ languages — without spending a second on setup.
