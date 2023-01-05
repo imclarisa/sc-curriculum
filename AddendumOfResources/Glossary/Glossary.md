@@ -192,8 +192,6 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Jasmine   | Jasmine is a very popular JavaScript behavior-driven development (BDD) framework for unit testing JavaScript applications. It provides utilities that can be used to run automated tests for both synchronous and asynchronous code.      |
 | Arrange-Act-Assert   | Arrange-Act-Assert is a great way to structure test cases. The "AAA - pattern" forces tests to focus on independent, individual behaviors.       |
 
-|    | Text        |
-
 ## HTML/CSS
 
 ---
@@ -308,6 +306,7 @@ These terms and a more in-depth look into Agile can be found here: [Agile Glossa
 | Cross-Origin Resouce Sharing (Cors)   | Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any other origins (domain, scheme, or port) than its own, from which a browser should permit loading of resources.        |
 | The Front End | We used Netlify to deploy the public version of our single-page-app (frontend), but Netlify is built to serve primarily static content (like HTML, CSS, and JavaScript files) in what's called a "serverless" environment *. Serverless environments do not support the kind of long-running services that we've just written; as you might expect, it's difficult to deploy a "server" to a platform that is explicitly "serverless".|
 | Heroku   | A platform for deploying git-based long-running processes. Heroku has the benefit of a MongoDB plugin that will make it easier to use the document database we build for our Pizza posts.        |
+| Render.com   | A platform for deploying git-based long-running processes. A free alterative to Heroku that we use to host our class and capstone APIs        |
 | Serverless Architecture   | A software design pattern where applications are hosted by a third-party service -- like Netlify-- eliminating the need for server software and hardware management by the developer. Also known as serverless computing or function as a service, FaaS.        |
 
 ### Unit Testing
