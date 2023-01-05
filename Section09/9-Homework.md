@@ -14,5 +14,5 @@
 - Setup a MongoDB Atlas Database (online) for your capstone
 - Create at least one API model and route that pertains to your capstone
 - Host the backend on Render.com and connect MongoDB Atlas using a environment variable
-- Connect you hosted API to your capstone SPA
+- Connect your hosted API to your capstone SPA
 - Start planning how to present your awesome capstone application on demo day
