@@ -2,36 +2,44 @@
 
 ## Goal: _Capstone work_
 
-- Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose
-- Select a color pallet for your website
-- Plan site navigation and Nav elements like buttons
+The homework for Week 1 will focus strictly on Capstone planning.
 
+Please refer to the [Syllabus](https://docs.google.com/document/d/1Nn_5CZKYpnQbBUJ3frHhy4xDO9-vgS0qrIC6nAAqEXY/edit?usp=sharing) for Capstone requirements.
 
-<br>
+1. If you have not done so, create an account for yourself on www.github.com (name should be professional)
 
-## Homework is due to Stephanie by next Wednesday
-
-1. If you have not done so yet – create an account for yourself on www.github.com (name should be professional)
-   <br>
-
-2. Create your capstone repo (in a new folder) and add a docs folder.
+1. Create your homework repo on GitHub and clone it to your local environment.
 
    > **Important**: Remember to use the [Savvy Starter Repo Template](https://github.com/savvy-coders/savvy-starter) for this!
 
-3. Create a docs folder, add all your project documentation in the form of markdown, images or PDFs. (It could be useful to create a separate **pictures** folder to collect images for your website)
-   <br>
+1. Create a week1 folder, add all your project documentation in the form of markdown, images or PDFs. (It could be useful to create a separate **pictures** folder to collect images for your website)
 
-4. Update your README.md file -- using Markdown code -- to link to your new project documentation, and do a writeup of your project.
-   <br>
+## Homework is due to Stephanie by Monday of Week 4
 
-5. Your documentation should include...
-   - [SWOT Analysis - Project Planning](https://docs.google.com/document/d/1AS_I6aDUy3FHavmheb-jS2qiLrm1xrmr6Q1uVHQKaGI/edit?usp=sharing)
-   - Definition of your audience
-   - Definition statement (I want to create a web application that...) for your project
-   - High level story (elevator pitch)
-   - Outline of the content
-   - User Flow
-   - Wireframes (1 wireframe per page minimum, hand-drawn is ok!)
-   - Color pallet
-   - Site navigation and Nav elements like buttons
-   - Any third party APIs that will be used
+> Homework is to be committed and pushed to your homework repo on GitHub under the week1 folder as created above.
+
+- Definition Statement
+   - I want to build an application that......
+- Definition of Audience
+   - Who is using my application
+- Outline of content
+   - What do I want on each page?  (text / pics / images / navigation)
+   - What do I want the functionality of each page to be?
+   - What is the purpose of my application?
+   - What business problem or real world problem am I going to be solving?
+   - Color Palette
+   - Images
+   - Fonts
+   - Logos
+   - Navigation
+- Create and provide link to story map created in Mural
+
+- Research:
+   - List Applications Researched: (links to websites / applications)
+   - List what you like about each site:
+   - List what you do not like about each site:
+   - How my application will be different:
+
+- Create wireframes and user flow diagram for at least 4 pages including Home, About, Contact Us and one other page demonstrating the specific functionality of your capstone's purpose (add link to wireframes one wireframe for each page with a min of 4 pages)
+- Create and provide link to User Flow
+- Create and provide link to [SWOT Analysis](https://docs.google.com/document/d/1K5ix6TZr2l2LnPKNnVj8PRzfkQoVlEwFBbynrA5aj44/edit?usp=sharing)
