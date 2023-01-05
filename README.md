@@ -2,7 +2,7 @@
 
 ## - [Prework Next Steps](Section00/0-PreWork-Next-Steps.md)
 
-## - [Orientation Agenda](Section00/0-Orientation-Agenda.md)
+## - [Orientation Agenda](https://docs.google.com/document/d/1GA7EDASQ9G41Q4caWP0CE1Xzr0BHpKKhH4CrBEH-AHA/edit?usp=sharing)
 
 ## - [Savvy Coders Syllabus](Section00/0-Syllabus.md)
 

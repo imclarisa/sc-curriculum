@@ -89,7 +89,6 @@ Backend development: Node.js, Building servers with Node, Express, MongoDB datab
 
 ## <b>Evaluation and Graduation Guidelines</b>
 
-## Students must complete and effectively present a capstone project. Said project will meet the following general requirements:
 ### Students must complete and effectively present a capstone project. Said project will meet the following general requirements
 <ul>
   <li>Display an effective approach to the project-planning process. This includes wireframing, UX/UI design, Jira boards, etc.</li>
